@@ -22,3 +22,4 @@ hvplot==0.8.2
 cartopy==0.21.1
 geoviews==1.9.6
 rtree==1.0.1
+datashader==0.14.4
