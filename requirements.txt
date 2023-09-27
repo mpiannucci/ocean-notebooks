@@ -25,4 +25,3 @@ geoviews==1.10.1
 rtree==1.0.1
 datashader==0.15.2
 ipywidgets
-git+https://github.com/mpiannucci/gribberish.git#\&subdirectory=python
