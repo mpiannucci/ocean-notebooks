@@ -2,7 +2,7 @@ xarray==2023.9.0
 s3fs==2023.9.2
 zarr==2.16.1
 scipy==1.9.3
-git+https://github.com/fsspec/kerchunk@44d6ed8461b7d0cbbb5433f97627855969cc5e8d
+git+https://github.com/fsspec/kerchunk@834d3f22923e030bb438b62544f1cb3f2241d19a
 python-dateutil==2.8.2
 pytz==2023.3.post1
 numcodecs==0.11.0
