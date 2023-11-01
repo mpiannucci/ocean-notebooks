@@ -1,0 +1,1633 @@
+period,stateid,stateDescription,sectorid,sectorName,price,price-units
+2001-01,MA,Massachusetts,TRA,transportation,,cents per kilowatthour
+2001-01,MA,Massachusetts,RES,residential,11.86,cents per kilowatthour
+2001-01,MA,Massachusetts,OTH,other,14.1,cents per kilowatthour
+2001-01,MA,Massachusetts,IND,industrial,9.32,cents per kilowatthour
+2001-01,MA,Massachusetts,COM,commercial,10.53,cents per kilowatthour
+2001-01,MA,Massachusetts,ALL,all sectors,10.9,cents per kilowatthour
+2001-02,MA,Massachusetts,COM,commercial,10.94,cents per kilowatthour
+2001-02,MA,Massachusetts,IND,industrial,8.67,cents per kilowatthour
+2001-02,MA,Massachusetts,OTH,other,14.36,cents per kilowatthour
+2001-02,MA,Massachusetts,RES,residential,12.03,cents per kilowatthour
+2001-02,MA,Massachusetts,TRA,transportation,,cents per kilowatthour
+2001-02,MA,Massachusetts,ALL,all sectors,10.93,cents per kilowatthour
+2001-03,MA,Massachusetts,TRA,transportation,,cents per kilowatthour
+2001-03,MA,Massachusetts,ALL,all sectors,11.15,cents per kilowatthour
+2001-03,MA,Massachusetts,COM,commercial,11.08,cents per kilowatthour
+2001-03,MA,Massachusetts,IND,industrial,9.23,cents per kilowatthour
+2001-03,MA,Massachusetts,OTH,other,14.69,cents per kilowatthour
+2001-03,MA,Massachusetts,RES,residential,12.08,cents per kilowatthour
+2001-04,MA,Massachusetts,COM,commercial,11.47,cents per kilowatthour
+2001-04,MA,Massachusetts,IND,industrial,9.57,cents per kilowatthour
+2001-04,MA,Massachusetts,OTH,other,15.89,cents per kilowatthour
+2001-04,MA,Massachusetts,RES,residential,12.49,cents per kilowatthour
+2001-04,MA,Massachusetts,TRA,transportation,,cents per kilowatthour
+2001-04,MA,Massachusetts,ALL,all sectors,11.52,cents per kilowatthour
+2001-05,MA,Massachusetts,COM,commercial,11.6,cents per kilowatthour
+2001-05,MA,Massachusetts,IND,industrial,9.34,cents per kilowatthour
+2001-05,MA,Massachusetts,OTH,other,15.81,cents per kilowatthour
+2001-05,MA,Massachusetts,RES,residential,12.47,cents per kilowatthour
+2001-05,MA,Massachusetts,TRA,transportation,,cents per kilowatthour
+2001-05,MA,Massachusetts,ALL,all sectors,11.45,cents per kilowatthour
+2001-06,MA,Massachusetts,COM,commercial,12.68,cents per kilowatthour
+2001-06,MA,Massachusetts,IND,industrial,9.8,cents per kilowatthour
+2001-06,MA,Massachusetts,OTH,other,16.22,cents per kilowatthour
+2001-06,MA,Massachusetts,RES,residential,12.57,cents per kilowatthour
+2001-06,MA,Massachusetts,TRA,transportation,,cents per kilowatthour
+2001-06,MA,Massachusetts,ALL,all sectors,12.11,cents per kilowatthour
+2001-07,MA,Massachusetts,TRA,transportation,,cents per kilowatthour
+2001-07,MA,Massachusetts,RES,residential,13.24,cents per kilowatthour
+2001-07,MA,Massachusetts,OTH,other,15.91,cents per kilowatthour
+2001-07,MA,Massachusetts,IND,industrial,10.83,cents per kilowatthour
+2001-07,MA,Massachusetts,COM,commercial,14.37,cents per kilowatthour
+2001-07,MA,Massachusetts,ALL,all sectors,13.35,cents per kilowatthour
+2001-08,MA,Massachusetts,COM,commercial,8.57,cents per kilowatthour
+2001-08,MA,Massachusetts,IND,industrial,9.53,cents per kilowatthour
+2001-08,MA,Massachusetts,OTH,other,16.26,cents per kilowatthour
+2001-08,MA,Massachusetts,RES,residential,12.62,cents per kilowatthour
+2001-08,MA,Massachusetts,TRA,transportation,,cents per kilowatthour
+2001-08,MA,Massachusetts,ALL,all sectors,10.23,cents per kilowatthour
+2001-09,MA,Massachusetts,COM,commercial,14.38,cents per kilowatthour
+2001-09,MA,Massachusetts,IND,industrial,9.74,cents per kilowatthour
+2001-09,MA,Massachusetts,OTH,other,14.68,cents per kilowatthour
+2001-09,MA,Massachusetts,RES,residential,12.97,cents per kilowatthour
+2001-09,MA,Massachusetts,TRA,transportation,,cents per kilowatthour
+2001-09,MA,Massachusetts,ALL,all sectors,13.03,cents per kilowatthour
+2001-10,MA,Massachusetts,COM,commercial,12.61,cents per kilowatthour
+2001-10,MA,Massachusetts,IND,industrial,9.04,cents per kilowatthour
+2001-10,MA,Massachusetts,OTH,other,16.58,cents per kilowatthour
+2001-10,MA,Massachusetts,RES,residential,12.85,cents per kilowatthour
+2001-10,MA,Massachusetts,TRA,transportation,,cents per kilowatthour
+2001-10,MA,Massachusetts,ALL,all sectors,12.05,cents per kilowatthour
+2001-11,MA,Massachusetts,COM,commercial,10.94,cents per kilowatthour
+2001-11,MA,Massachusetts,IND,industrial,8.16,cents per kilowatthour
+2001-11,MA,Massachusetts,OTH,other,16.29,cents per kilowatthour
+2001-11,MA,Massachusetts,RES,residential,12.74,cents per kilowatthour
+2001-11,MA,Massachusetts,TRA,transportation,,cents per kilowatthour
+2001-11,MA,Massachusetts,ALL,all sectors,11.06,cents per kilowatthour
+2001-12,MA,Massachusetts,TRA,transportation,,cents per kilowatthour
+2001-12,MA,Massachusetts,RES,residential,11.96,cents per kilowatthour
+2001-12,MA,Massachusetts,OTH,other,15.69,cents per kilowatthour
+2001-12,MA,Massachusetts,IND,industrial,9.12,cents per kilowatthour
+2001-12,MA,Massachusetts,COM,commercial,10.79,cents per kilowatthour
+2001-12,MA,Massachusetts,ALL,all sectors,10.97,cents per kilowatthour
+2002-01,MA,Massachusetts,COM,commercial,10.25,cents per kilowatthour
+2002-01,MA,Massachusetts,IND,industrial,8.51,cents per kilowatthour
+2002-01,MA,Massachusetts,OTH,other,13.94,cents per kilowatthour
+2002-01,MA,Massachusetts,RES,residential,11.65,cents per kilowatthour
+2002-01,MA,Massachusetts,TRA,transportation,,cents per kilowatthour
+2002-01,MA,Massachusetts,ALL,all sectors,10.51,cents per kilowatthour
+2002-02,MA,Massachusetts,COM,commercial,9.63,cents per kilowatthour
+2002-02,MA,Massachusetts,IND,industrial,7.88,cents per kilowatthour
+2002-02,MA,Massachusetts,OTH,other,12.1,cents per kilowatthour
+2002-02,MA,Massachusetts,RES,residential,10.9,cents per kilowatthour
+2002-02,MA,Massachusetts,TRA,transportation,,cents per kilowatthour
+2002-02,MA,Massachusetts,ALL,all sectors,9.8,cents per kilowatthour
+2002-03,MA,Massachusetts,COM,commercial,9.44,cents per kilowatthour
+2002-03,MA,Massachusetts,IND,industrial,7.96,cents per kilowatthour
+2002-03,MA,Massachusetts,OTH,other,13.21,cents per kilowatthour
+2002-03,MA,Massachusetts,RES,residential,11.1,cents per kilowatthour
+2002-03,MA,Massachusetts,TRA,transportation,,cents per kilowatthour
+2002-03,MA,Massachusetts,ALL,all sectors,9.78,cents per kilowatthour
+2002-04,MA,Massachusetts,COM,commercial,9.99,cents per kilowatthour
+2002-04,MA,Massachusetts,IND,industrial,7.56,cents per kilowatthour
+2002-04,MA,Massachusetts,OTH,other,13.71,cents per kilowatthour
+2002-04,MA,Massachusetts,RES,residential,11.4,cents per kilowatthour
+2002-04,MA,Massachusetts,TRA,transportation,,cents per kilowatthour
+2002-04,MA,Massachusetts,ALL,all sectors,10.01,cents per kilowatthour
+2002-05,MA,Massachusetts,COM,commercial,9.29,cents per kilowatthour
+2002-05,MA,Massachusetts,IND,industrial,7.86,cents per kilowatthour
+2002-05,MA,Massachusetts,OTH,other,12.47,cents per kilowatthour
+2002-05,MA,Massachusetts,RES,residential,10.66,cents per kilowatthour
+2002-05,MA,Massachusetts,TRA,transportation,,cents per kilowatthour
+2002-05,MA,Massachusetts,ALL,all sectors,9.48,cents per kilowatthour
+2002-06,MA,Massachusetts,COM,commercial,10.21,cents per kilowatthour
+2002-06,MA,Massachusetts,IND,industrial,8.24,cents per kilowatthour
+2002-06,MA,Massachusetts,OTH,other,13.28,cents per kilowatthour
+2002-06,MA,Massachusetts,RES,residential,10.92,cents per kilowatthour
+2002-06,MA,Massachusetts,TRA,transportation,,cents per kilowatthour
+2002-06,MA,Massachusetts,ALL,all sectors,10.07,cents per kilowatthour
+2002-07,MA,Massachusetts,COM,commercial,11.13,cents per kilowatthour
+2002-07,MA,Massachusetts,IND,industrial,8.62,cents per kilowatthour
+2002-07,MA,Massachusetts,OTH,other,15.55,cents per kilowatthour
+2002-07,MA,Massachusetts,RES,residential,10.75,cents per kilowatthour
+2002-07,MA,Massachusetts,TRA,transportation,,cents per kilowatthour
+2002-07,MA,Massachusetts,ALL,all sectors,10.59,cents per kilowatthour
+2002-08,MA,Massachusetts,COM,commercial,10.42,cents per kilowatthour
+2002-08,MA,Massachusetts,IND,industrial,8.62,cents per kilowatthour
+2002-08,MA,Massachusetts,OTH,other,12.87,cents per kilowatthour
+2002-08,MA,Massachusetts,RES,residential,10.56,cents per kilowatthour
+2002-08,MA,Massachusetts,TRA,transportation,,cents per kilowatthour
+2002-08,MA,Massachusetts,ALL,all sectors,10.18,cents per kilowatthour
+2002-09,MA,Massachusetts,COM,commercial,10.95,cents per kilowatthour
+2002-09,MA,Massachusetts,IND,industrial,8.6,cents per kilowatthour
+2002-09,MA,Massachusetts,OTH,other,12.43,cents per kilowatthour
+2002-09,MA,Massachusetts,RES,residential,10.68,cents per kilowatthour
+2002-09,MA,Massachusetts,TRA,transportation,,cents per kilowatthour
+2002-09,MA,Massachusetts,ALL,all sectors,10.43,cents per kilowatthour
+2002-10,MA,Massachusetts,TRA,transportation,,cents per kilowatthour
+2002-10,MA,Massachusetts,RES,residential,10.87,cents per kilowatthour
+2002-10,MA,Massachusetts,OTH,other,11.64,cents per kilowatthour
+2002-10,MA,Massachusetts,IND,industrial,8.25,cents per kilowatthour
+2002-10,MA,Massachusetts,COM,commercial,10.19,cents per kilowatthour
+2002-10,MA,Massachusetts,ALL,all sectors,10.04,cents per kilowatthour
+2002-11,MA,Massachusetts,COM,commercial,8.89,cents per kilowatthour
+2002-11,MA,Massachusetts,IND,industrial,9.15,cents per kilowatthour
+2002-11,MA,Massachusetts,OTH,other,11.67,cents per kilowatthour
+2002-11,MA,Massachusetts,RES,residential,11.04,cents per kilowatthour
+2002-11,MA,Massachusetts,TRA,transportation,,cents per kilowatthour
+2002-11,MA,Massachusetts,ALL,all sectors,9.69,cents per kilowatthour
+2002-12,MA,Massachusetts,COM,commercial,9.56,cents per kilowatthour
+2002-12,MA,Massachusetts,IND,industrial,8.73,cents per kilowatthour
+2002-12,MA,Massachusetts,OTH,other,14.54,cents per kilowatthour
+2002-12,MA,Massachusetts,RES,residential,10.78,cents per kilowatthour
+2002-12,MA,Massachusetts,TRA,transportation,,cents per kilowatthour
+2002-12,MA,Massachusetts,ALL,all sectors,9.94,cents per kilowatthour
+2003-01,MA,Massachusetts,RES,residential,10.5,cents per kilowatthour
+2003-01,MA,Massachusetts,TRA,transportation,3.26,cents per kilowatthour
+2003-01,MA,Massachusetts,ALL,all sectors,9.21,cents per kilowatthour
+2003-01,MA,Massachusetts,COM,commercial,8.58,cents per kilowatthour
+2003-01,MA,Massachusetts,IND,industrial,8.12,cents per kilowatthour
+2003-01,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2003-02,MA,Massachusetts,COM,commercial,9.24,cents per kilowatthour
+2003-02,MA,Massachusetts,IND,industrial,8.48,cents per kilowatthour
+2003-02,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2003-02,MA,Massachusetts,RES,residential,10.83,cents per kilowatthour
+2003-02,MA,Massachusetts,TRA,transportation,3.63,cents per kilowatthour
+2003-02,MA,Massachusetts,ALL,all sectors,9.68,cents per kilowatthour
+2003-03,MA,Massachusetts,COM,commercial,9.53,cents per kilowatthour
+2003-03,MA,Massachusetts,IND,industrial,8.86,cents per kilowatthour
+2003-03,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2003-03,MA,Massachusetts,RES,residential,11.05,cents per kilowatthour
+2003-03,MA,Massachusetts,TRA,transportation,4.24,cents per kilowatthour
+2003-03,MA,Massachusetts,ALL,all sectors,9.95,cents per kilowatthour
+2003-04,MA,Massachusetts,COM,commercial,9.26,cents per kilowatthour
+2003-04,MA,Massachusetts,IND,industrial,8.73,cents per kilowatthour
+2003-04,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2003-04,MA,Massachusetts,RES,residential,10.75,cents per kilowatthour
+2003-04,MA,Massachusetts,TRA,transportation,4.08,cents per kilowatthour
+2003-04,MA,Massachusetts,ALL,all sectors,9.65,cents per kilowatthour
+2003-05,MA,Massachusetts,COM,commercial,9.92,cents per kilowatthour
+2003-05,MA,Massachusetts,IND,industrial,8.72,cents per kilowatthour
+2003-05,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2003-05,MA,Massachusetts,RES,residential,11.56,cents per kilowatthour
+2003-05,MA,Massachusetts,TRA,transportation,4.05,cents per kilowatthour
+2003-05,MA,Massachusetts,ALL,all sectors,10.17,cents per kilowatthour
+2003-06,MA,Massachusetts,COM,commercial,11.44,cents per kilowatthour
+2003-06,MA,Massachusetts,IND,industrial,9.15,cents per kilowatthour
+2003-06,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2003-06,MA,Massachusetts,RES,residential,12.05,cents per kilowatthour
+2003-06,MA,Massachusetts,TRA,transportation,4.43,cents per kilowatthour
+2003-06,MA,Massachusetts,ALL,all sectors,11.15,cents per kilowatthour
+2003-07,MA,Massachusetts,COM,commercial,11.42,cents per kilowatthour
+2003-07,MA,Massachusetts,IND,industrial,9.23,cents per kilowatthour
+2003-07,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2003-07,MA,Massachusetts,RES,residential,11.89,cents per kilowatthour
+2003-07,MA,Massachusetts,TRA,transportation,3.95,cents per kilowatthour
+2003-07,MA,Massachusetts,ALL,all sectors,11.18,cents per kilowatthour
+2003-08,MA,Massachusetts,COM,commercial,11.8,cents per kilowatthour
+2003-08,MA,Massachusetts,IND,industrial,9.95,cents per kilowatthour
+2003-08,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2003-08,MA,Massachusetts,RES,residential,12.11,cents per kilowatthour
+2003-08,MA,Massachusetts,TRA,transportation,4.49,cents per kilowatthour
+2003-08,MA,Massachusetts,ALL,all sectors,11.58,cents per kilowatthour
+2003-09,MA,Massachusetts,COM,commercial,12.6,cents per kilowatthour
+2003-09,MA,Massachusetts,IND,industrial,9.49,cents per kilowatthour
+2003-09,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2003-09,MA,Massachusetts,RES,residential,12.64,cents per kilowatthour
+2003-09,MA,Massachusetts,TRA,transportation,4.9,cents per kilowatthour
+2003-09,MA,Massachusetts,ALL,all sectors,11.99,cents per kilowatthour
+2003-10,MA,Massachusetts,COM,commercial,11.12,cents per kilowatthour
+2003-10,MA,Massachusetts,IND,industrial,8.91,cents per kilowatthour
+2003-10,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2003-10,MA,Massachusetts,RES,residential,12.0,cents per kilowatthour
+2003-10,MA,Massachusetts,TRA,transportation,4.29,cents per kilowatthour
+2003-10,MA,Massachusetts,ALL,all sectors,10.93,cents per kilowatthour
+2003-11,MA,Massachusetts,COM,commercial,10.01,cents per kilowatthour
+2003-11,MA,Massachusetts,IND,industrial,8.44,cents per kilowatthour
+2003-11,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2003-11,MA,Massachusetts,RES,residential,12.01,cents per kilowatthour
+2003-11,MA,Massachusetts,TRA,transportation,3.79,cents per kilowatthour
+2003-11,MA,Massachusetts,ALL,all sectors,10.35,cents per kilowatthour
+2003-12,MA,Massachusetts,COM,commercial,10.46,cents per kilowatthour
+2003-12,MA,Massachusetts,IND,industrial,8.87,cents per kilowatthour
+2003-12,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2003-12,MA,Massachusetts,RES,residential,11.98,cents per kilowatthour
+2003-12,MA,Massachusetts,TRA,transportation,4.22,cents per kilowatthour
+2003-12,MA,Massachusetts,ALL,all sectors,10.72,cents per kilowatthour
+2004-01,MA,Massachusetts,COM,commercial,9.9,cents per kilowatthour
+2004-01,MA,Massachusetts,IND,industrial,8.4,cents per kilowatthour
+2004-01,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2004-01,MA,Massachusetts,RES,residential,11.2,cents per kilowatthour
+2004-01,MA,Massachusetts,TRA,transportation,4.65,cents per kilowatthour
+2004-01,MA,Massachusetts,ALL,all sectors,10.1,cents per kilowatthour
+2004-02,MA,Massachusetts,TRA,transportation,4.82,cents per kilowatthour
+2004-02,MA,Massachusetts,ALL,all sectors,10.62,cents per kilowatthour
+2004-02,MA,Massachusetts,COM,commercial,10.56,cents per kilowatthour
+2004-02,MA,Massachusetts,IND,industrial,8.79,cents per kilowatthour
+2004-02,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2004-02,MA,Massachusetts,RES,residential,11.69,cents per kilowatthour
+2004-03,MA,Massachusetts,COM,commercial,10.1,cents per kilowatthour
+2004-03,MA,Massachusetts,IND,industrial,8.07,cents per kilowatthour
+2004-03,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2004-03,MA,Massachusetts,RES,residential,11.36,cents per kilowatthour
+2004-03,MA,Massachusetts,TRA,transportation,4.16,cents per kilowatthour
+2004-03,MA,Massachusetts,ALL,all sectors,10.09,cents per kilowatthour
+2004-04,MA,Massachusetts,COM,commercial,10.42,cents per kilowatthour
+2004-04,MA,Massachusetts,IND,industrial,8.3,cents per kilowatthour
+2004-04,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2004-04,MA,Massachusetts,RES,residential,11.56,cents per kilowatthour
+2004-04,MA,Massachusetts,TRA,transportation,4.29,cents per kilowatthour
+2004-04,MA,Massachusetts,ALL,all sectors,10.38,cents per kilowatthour
+2004-05,MA,Massachusetts,COM,commercial,9.83,cents per kilowatthour
+2004-05,MA,Massachusetts,IND,industrial,7.83,cents per kilowatthour
+2004-05,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2004-05,MA,Massachusetts,RES,residential,11.43,cents per kilowatthour
+2004-05,MA,Massachusetts,TRA,transportation,4.09,cents per kilowatthour
+2004-05,MA,Massachusetts,ALL,all sectors,9.93,cents per kilowatthour
+2004-06,MA,Massachusetts,COM,commercial,11.83,cents per kilowatthour
+2004-06,MA,Massachusetts,IND,industrial,8.55,cents per kilowatthour
+2004-06,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2004-06,MA,Massachusetts,RES,residential,11.55,cents per kilowatthour
+2004-06,MA,Massachusetts,TRA,transportation,4.88,cents per kilowatthour
+2004-06,MA,Massachusetts,ALL,all sectors,11.1,cents per kilowatthour
+2004-07,MA,Massachusetts,COM,commercial,11.94,cents per kilowatthour
+2004-07,MA,Massachusetts,IND,industrial,8.7,cents per kilowatthour
+2004-07,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2004-07,MA,Massachusetts,RES,residential,11.73,cents per kilowatthour
+2004-07,MA,Massachusetts,TRA,transportation,5.62,cents per kilowatthour
+2004-07,MA,Massachusetts,ALL,all sectors,11.26,cents per kilowatthour
+2004-08,MA,Massachusetts,COM,commercial,11.88,cents per kilowatthour
+2004-08,MA,Massachusetts,IND,industrial,8.96,cents per kilowatthour
+2004-08,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2004-08,MA,Massachusetts,RES,residential,11.96,cents per kilowatthour
+2004-08,MA,Massachusetts,TRA,transportation,5.67,cents per kilowatthour
+2004-08,MA,Massachusetts,ALL,all sectors,11.38,cents per kilowatthour
+2004-09,MA,Massachusetts,COM,commercial,12.63,cents per kilowatthour
+2004-09,MA,Massachusetts,IND,industrial,8.78,cents per kilowatthour
+2004-09,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2004-09,MA,Massachusetts,RES,residential,12.22,cents per kilowatthour
+2004-09,MA,Massachusetts,TRA,transportation,4.62,cents per kilowatthour
+2004-09,MA,Massachusetts,ALL,all sectors,11.74,cents per kilowatthour
+2004-10,MA,Massachusetts,COM,commercial,10.9,cents per kilowatthour
+2004-10,MA,Massachusetts,IND,industrial,8.29,cents per kilowatthour
+2004-10,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2004-10,MA,Massachusetts,RES,residential,12.05,cents per kilowatthour
+2004-10,MA,Massachusetts,TRA,transportation,4.23,cents per kilowatthour
+2004-10,MA,Massachusetts,ALL,all sectors,10.75,cents per kilowatthour
+2004-11,MA,Massachusetts,COM,commercial,10.78,cents per kilowatthour
+2004-11,MA,Massachusetts,IND,industrial,8.27,cents per kilowatthour
+2004-11,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2004-11,MA,Massachusetts,RES,residential,12.17,cents per kilowatthour
+2004-11,MA,Massachusetts,TRA,transportation,4.36,cents per kilowatthour
+2004-11,MA,Massachusetts,ALL,all sectors,10.78,cents per kilowatthour
+2004-12,MA,Massachusetts,COM,commercial,10.81,cents per kilowatthour
+2004-12,MA,Massachusetts,IND,industrial,8.88,cents per kilowatthour
+2004-12,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2004-12,MA,Massachusetts,RES,residential,12.16,cents per kilowatthour
+2004-12,MA,Massachusetts,TRA,transportation,4.47,cents per kilowatthour
+2004-12,MA,Massachusetts,ALL,all sectors,10.98,cents per kilowatthour
+2005-01,MA,Massachusetts,COM,commercial,11.31,cents per kilowatthour
+2005-01,MA,Massachusetts,IND,industrial,9.38,cents per kilowatthour
+2005-01,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2005-01,MA,Massachusetts,RES,residential,12.8,cents per kilowatthour
+2005-01,MA,Massachusetts,TRA,transportation,4.67,cents per kilowatthour
+2005-01,MA,Massachusetts,ALL,all sectors,11.53,cents per kilowatthour
+2005-02,MA,Massachusetts,COM,commercial,11.67,cents per kilowatthour
+2005-02,MA,Massachusetts,IND,industrial,9.23,cents per kilowatthour
+2005-02,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2005-02,MA,Massachusetts,RES,residential,13.35,cents per kilowatthour
+2005-02,MA,Massachusetts,TRA,transportation,4.92,cents per kilowatthour
+2005-02,MA,Massachusetts,ALL,all sectors,11.81,cents per kilowatthour
+2005-03,MA,Massachusetts,COM,commercial,11.53,cents per kilowatthour
+2005-03,MA,Massachusetts,IND,industrial,8.94,cents per kilowatthour
+2005-03,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2005-03,MA,Massachusetts,RES,residential,13.1,cents per kilowatthour
+2005-03,MA,Massachusetts,TRA,transportation,4.33,cents per kilowatthour
+2005-03,MA,Massachusetts,ALL,all sectors,11.59,cents per kilowatthour
+2005-04,MA,Massachusetts,COM,commercial,12.02,cents per kilowatthour
+2005-04,MA,Massachusetts,IND,industrial,8.35,cents per kilowatthour
+2005-04,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2005-04,MA,Massachusetts,RES,residential,13.03,cents per kilowatthour
+2005-04,MA,Massachusetts,TRA,transportation,4.37,cents per kilowatthour
+2005-04,MA,Massachusetts,ALL,all sectors,11.61,cents per kilowatthour
+2005-05,MA,Massachusetts,COM,commercial,11.38,cents per kilowatthour
+2005-05,MA,Massachusetts,IND,industrial,8.93,cents per kilowatthour
+2005-05,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2005-05,MA,Massachusetts,RES,residential,13.31,cents per kilowatthour
+2005-05,MA,Massachusetts,TRA,transportation,4.46,cents per kilowatthour
+2005-05,MA,Massachusetts,ALL,all sectors,11.5,cents per kilowatthour
+2005-06,MA,Massachusetts,COM,commercial,12.7,cents per kilowatthour
+2005-06,MA,Massachusetts,IND,industrial,9.08,cents per kilowatthour
+2005-06,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2005-06,MA,Massachusetts,RES,residential,13.16,cents per kilowatthour
+2005-06,MA,Massachusetts,TRA,transportation,4.75,cents per kilowatthour
+2005-06,MA,Massachusetts,ALL,all sectors,12.17,cents per kilowatthour
+2005-07,MA,Massachusetts,COM,commercial,13.03,cents per kilowatthour
+2005-07,MA,Massachusetts,IND,industrial,9.21,cents per kilowatthour
+2005-07,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2005-07,MA,Massachusetts,RES,residential,13.08,cents per kilowatthour
+2005-07,MA,Massachusetts,TRA,transportation,5.7,cents per kilowatthour
+2005-07,MA,Massachusetts,ALL,all sectors,12.4,cents per kilowatthour
+2005-08,MA,Massachusetts,COM,commercial,13.12,cents per kilowatthour
+2005-08,MA,Massachusetts,IND,industrial,9.21,cents per kilowatthour
+2005-08,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2005-08,MA,Massachusetts,RES,residential,13.19,cents per kilowatthour
+2005-08,MA,Massachusetts,TRA,transportation,5.85,cents per kilowatthour
+2005-08,MA,Massachusetts,ALL,all sectors,12.46,cents per kilowatthour
+2005-09,MA,Massachusetts,COM,commercial,13.46,cents per kilowatthour
+2005-09,MA,Massachusetts,IND,industrial,9.48,cents per kilowatthour
+2005-09,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2005-09,MA,Massachusetts,RES,residential,13.66,cents per kilowatthour
+2005-09,MA,Massachusetts,TRA,transportation,4.97,cents per kilowatthour
+2005-09,MA,Massachusetts,ALL,all sectors,12.78,cents per kilowatthour
+2005-10,MA,Massachusetts,COM,commercial,12.35,cents per kilowatthour
+2005-10,MA,Massachusetts,IND,industrial,9.49,cents per kilowatthour
+2005-10,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2005-10,MA,Massachusetts,RES,residential,13.28,cents per kilowatthour
+2005-10,MA,Massachusetts,TRA,transportation,4.69,cents per kilowatthour
+2005-10,MA,Massachusetts,ALL,all sectors,12.07,cents per kilowatthour
+2005-11,MA,Massachusetts,IND,industrial,9.17,cents per kilowatthour
+2005-11,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2005-11,MA,Massachusetts,RES,residential,14.45,cents per kilowatthour
+2005-11,MA,Massachusetts,TRA,transportation,4.6,cents per kilowatthour
+2005-11,MA,Massachusetts,ALL,all sectors,12.78,cents per kilowatthour
+2005-11,MA,Massachusetts,COM,commercial,13.05,cents per kilowatthour
+2005-12,MA,Massachusetts,COM,commercial,13.05,cents per kilowatthour
+2005-12,MA,Massachusetts,IND,industrial,10.13,cents per kilowatthour
+2005-12,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2005-12,MA,Massachusetts,RES,residential,14.9,cents per kilowatthour
+2005-12,MA,Massachusetts,TRA,transportation,4.48,cents per kilowatthour
+2005-12,MA,Massachusetts,ALL,all sectors,13.23,cents per kilowatthour
+2006-01,MA,Massachusetts,COM,commercial,15.28,cents per kilowatthour
+2006-01,MA,Massachusetts,IND,industrial,12.86,cents per kilowatthour
+2006-01,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2006-01,MA,Massachusetts,RES,residential,17.05,cents per kilowatthour
+2006-01,MA,Massachusetts,TRA,transportation,10.65,cents per kilowatthour
+2006-01,MA,Massachusetts,ALL,all sectors,15.6,cents per kilowatthour
+2006-02,MA,Massachusetts,COM,commercial,17.15,cents per kilowatthour
+2006-02,MA,Massachusetts,IND,industrial,13.5,cents per kilowatthour
+2006-02,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2006-02,MA,Massachusetts,RES,residential,17.64,cents per kilowatthour
+2006-02,MA,Massachusetts,TRA,transportation,11.02,cents per kilowatthour
+2006-02,MA,Massachusetts,ALL,all sectors,16.6,cents per kilowatthour
+2006-03,MA,Massachusetts,COM,commercial,15.69,cents per kilowatthour
+2006-03,MA,Massachusetts,IND,industrial,12.99,cents per kilowatthour
+2006-03,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2006-03,MA,Massachusetts,RES,residential,17.17,cents per kilowatthour
+2006-03,MA,Massachusetts,TRA,transportation,9.98,cents per kilowatthour
+2006-03,MA,Massachusetts,ALL,all sectors,15.79,cents per kilowatthour
+2006-04,MA,Massachusetts,COM,commercial,15.07,cents per kilowatthour
+2006-04,MA,Massachusetts,IND,industrial,12.58,cents per kilowatthour
+2006-04,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2006-04,MA,Massachusetts,RES,residential,16.48,cents per kilowatthour
+2006-04,MA,Massachusetts,TRA,transportation,9.3,cents per kilowatthour
+2006-04,MA,Massachusetts,ALL,all sectors,14.98,cents per kilowatthour
+2006-05,MA,Massachusetts,COM,commercial,14.5,cents per kilowatthour
+2006-05,MA,Massachusetts,IND,industrial,12.51,cents per kilowatthour
+2006-05,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2006-05,MA,Massachusetts,RES,residential,16.47,cents per kilowatthour
+2006-05,MA,Massachusetts,TRA,transportation,9.91,cents per kilowatthour
+2006-05,MA,Massachusetts,ALL,all sectors,14.68,cents per kilowatthour
+2006-06,MA,Massachusetts,COM,commercial,16.24,cents per kilowatthour
+2006-06,MA,Massachusetts,IND,industrial,13.44,cents per kilowatthour
+2006-06,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2006-06,MA,Massachusetts,RES,residential,16.22,cents per kilowatthour
+2006-06,MA,Massachusetts,TRA,transportation,11.23,cents per kilowatthour
+2006-06,MA,Massachusetts,ALL,all sectors,15.69,cents per kilowatthour
+2006-07,MA,Massachusetts,COM,commercial,15.67,cents per kilowatthour
+2006-07,MA,Massachusetts,IND,industrial,13.45,cents per kilowatthour
+2006-07,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2006-07,MA,Massachusetts,RES,residential,16.05,cents per kilowatthour
+2006-07,MA,Massachusetts,TRA,transportation,13.0,cents per kilowatthour
+2006-07,MA,Massachusetts,ALL,all sectors,15.44,cents per kilowatthour
+2006-08,MA,Massachusetts,TRA,transportation,13.7,cents per kilowatthour
+2006-08,MA,Massachusetts,ALL,all sectors,16.27,cents per kilowatthour
+2006-08,MA,Massachusetts,COM,commercial,16.53,cents per kilowatthour
+2006-08,MA,Massachusetts,IND,industrial,13.84,cents per kilowatthour
+2006-08,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2006-08,MA,Massachusetts,RES,residential,16.85,cents per kilowatthour
+2006-09,MA,Massachusetts,COM,commercial,16.33,cents per kilowatthour
+2006-09,MA,Massachusetts,IND,industrial,13.09,cents per kilowatthour
+2006-09,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2006-09,MA,Massachusetts,RES,residential,16.59,cents per kilowatthour
+2006-09,MA,Massachusetts,TRA,transportation,10.4,cents per kilowatthour
+2006-09,MA,Massachusetts,ALL,all sectors,15.75,cents per kilowatthour
+2006-10,MA,Massachusetts,COM,commercial,14.86,cents per kilowatthour
+2006-10,MA,Massachusetts,IND,industrial,12.78,cents per kilowatthour
+2006-10,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2006-10,MA,Massachusetts,RES,residential,16.18,cents per kilowatthour
+2006-10,MA,Massachusetts,TRA,transportation,9.6,cents per kilowatthour
+2006-10,MA,Massachusetts,ALL,all sectors,14.84,cents per kilowatthour
+2006-11,MA,Massachusetts,COM,commercial,14.22,cents per kilowatthour
+2006-11,MA,Massachusetts,IND,industrial,12.53,cents per kilowatthour
+2006-11,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2006-11,MA,Massachusetts,RES,residential,15.74,cents per kilowatthour
+2006-11,MA,Massachusetts,TRA,transportation,9.91,cents per kilowatthour
+2006-11,MA,Massachusetts,ALL,all sectors,14.42,cents per kilowatthour
+2006-12,MA,Massachusetts,COM,commercial,14.66,cents per kilowatthour
+2006-12,MA,Massachusetts,IND,industrial,12.92,cents per kilowatthour
+2006-12,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2006-12,MA,Massachusetts,RES,residential,16.63,cents per kilowatthour
+2006-12,MA,Massachusetts,TRA,transportation,9.67,cents per kilowatthour
+2006-12,MA,Massachusetts,ALL,all sectors,15.06,cents per kilowatthour
+2007-01,MA,Massachusetts,COM,commercial,15.52,cents per kilowatthour
+2007-01,MA,Massachusetts,IND,industrial,13.47,cents per kilowatthour
+2007-01,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2007-01,MA,Massachusetts,RES,residential,17.87,cents per kilowatthour
+2007-01,MA,Massachusetts,TRA,transportation,10.26,cents per kilowatthour
+2007-01,MA,Massachusetts,ALL,all sectors,16.02,cents per kilowatthour
+2007-02,MA,Massachusetts,COM,commercial,16.3,cents per kilowatthour
+2007-02,MA,Massachusetts,IND,industrial,12.52,cents per kilowatthour
+2007-02,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2007-02,MA,Massachusetts,RES,residential,16.82,cents per kilowatthour
+2007-02,MA,Massachusetts,TRA,transportation,9.53,cents per kilowatthour
+2007-02,MA,Massachusetts,ALL,all sectors,15.87,cents per kilowatthour
+2007-03,MA,Massachusetts,COM,commercial,14.74,cents per kilowatthour
+2007-03,MA,Massachusetts,IND,industrial,13.57,cents per kilowatthour
+2007-03,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2007-03,MA,Massachusetts,RES,residential,16.95,cents per kilowatthour
+2007-03,MA,Massachusetts,TRA,transportation,8.68,cents per kilowatthour
+2007-03,MA,Massachusetts,ALL,all sectors,15.27,cents per kilowatthour
+2007-04,MA,Massachusetts,COM,commercial,14.93,cents per kilowatthour
+2007-04,MA,Massachusetts,IND,industrial,12.63,cents per kilowatthour
+2007-04,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2007-04,MA,Massachusetts,RES,residential,16.62,cents per kilowatthour
+2007-04,MA,Massachusetts,TRA,transportation,8.59,cents per kilowatthour
+2007-04,MA,Massachusetts,ALL,all sectors,15.04,cents per kilowatthour
+2007-05,MA,Massachusetts,COM,commercial,14.22,cents per kilowatthour
+2007-05,MA,Massachusetts,IND,industrial,12.47,cents per kilowatthour
+2007-05,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2007-05,MA,Massachusetts,RES,residential,15.66,cents per kilowatthour
+2007-05,MA,Massachusetts,TRA,transportation,8.5,cents per kilowatthour
+2007-05,MA,Massachusetts,ALL,all sectors,14.32,cents per kilowatthour
+2007-06,MA,Massachusetts,COM,commercial,15.33,cents per kilowatthour
+2007-06,MA,Massachusetts,IND,industrial,13.35,cents per kilowatthour
+2007-06,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2007-06,MA,Massachusetts,RES,residential,16.68,cents per kilowatthour
+2007-06,MA,Massachusetts,TRA,transportation,9.58,cents per kilowatthour
+2007-06,MA,Massachusetts,ALL,all sectors,15.41,cents per kilowatthour
+2007-07,MA,Massachusetts,COM,commercial,15.6,cents per kilowatthour
+2007-07,MA,Massachusetts,IND,industrial,12.85,cents per kilowatthour
+2007-07,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2007-07,MA,Massachusetts,RES,residential,15.58,cents per kilowatthour
+2007-07,MA,Massachusetts,TRA,transportation,11.12,cents per kilowatthour
+2007-07,MA,Massachusetts,ALL,all sectors,15.15,cents per kilowatthour
+2007-08,MA,Massachusetts,COM,commercial,15.35,cents per kilowatthour
+2007-08,MA,Massachusetts,IND,industrial,14.28,cents per kilowatthour
+2007-08,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2007-08,MA,Massachusetts,RES,residential,15.78,cents per kilowatthour
+2007-08,MA,Massachusetts,TRA,transportation,11.15,cents per kilowatthour
+2007-08,MA,Massachusetts,ALL,all sectors,15.32,cents per kilowatthour
+2007-09,MA,Massachusetts,ALL,all sectors,15.45,cents per kilowatthour
+2007-09,MA,Massachusetts,COM,commercial,16.12,cents per kilowatthour
+2007-09,MA,Massachusetts,IND,industrial,12.38,cents per kilowatthour
+2007-09,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2007-09,MA,Massachusetts,RES,residential,16.15,cents per kilowatthour
+2007-09,MA,Massachusetts,TRA,transportation,8.99,cents per kilowatthour
+2007-10,MA,Massachusetts,COM,commercial,14.85,cents per kilowatthour
+2007-10,MA,Massachusetts,IND,industrial,13.34,cents per kilowatthour
+2007-10,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2007-10,MA,Massachusetts,RES,residential,15.91,cents per kilowatthour
+2007-10,MA,Massachusetts,TRA,transportation,8.42,cents per kilowatthour
+2007-10,MA,Massachusetts,ALL,all sectors,14.88,cents per kilowatthour
+2007-11,MA,Massachusetts,RES,residential,15.57,cents per kilowatthour
+2007-11,MA,Massachusetts,TRA,transportation,8.21,cents per kilowatthour
+2007-11,MA,Massachusetts,ALL,all sectors,14.62,cents per kilowatthour
+2007-11,MA,Massachusetts,COM,commercial,14.61,cents per kilowatthour
+2007-11,MA,Massachusetts,IND,industrial,13.03,cents per kilowatthour
+2007-11,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2007-12,MA,Massachusetts,COM,commercial,14.74,cents per kilowatthour
+2007-12,MA,Massachusetts,IND,industrial,12.31,cents per kilowatthour
+2007-12,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2007-12,MA,Massachusetts,RES,residential,15.24,cents per kilowatthour
+2007-12,MA,Massachusetts,TRA,transportation,8.04,cents per kilowatthour
+2007-12,MA,Massachusetts,ALL,all sectors,14.49,cents per kilowatthour
+2008-01,MA,Massachusetts,COM,commercial,15.18,cents per kilowatthour
+2008-01,MA,Massachusetts,IND,industrial,13.18,cents per kilowatthour
+2008-01,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2008-01,MA,Massachusetts,RES,residential,16.81,cents per kilowatthour
+2008-01,MA,Massachusetts,TRA,transportation,8.33,cents per kilowatthour
+2008-01,MA,Massachusetts,ALL,all sectors,15.45,cents per kilowatthour
+2008-02,MA,Massachusetts,COM,commercial,14.85,cents per kilowatthour
+2008-02,MA,Massachusetts,IND,industrial,12.89,cents per kilowatthour
+2008-02,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2008-02,MA,Massachusetts,RES,residential,16.49,cents per kilowatthour
+2008-02,MA,Massachusetts,TRA,transportation,9.58,cents per kilowatthour
+2008-02,MA,Massachusetts,ALL,all sectors,15.09,cents per kilowatthour
+2008-03,MA,Massachusetts,COM,commercial,15.53,cents per kilowatthour
+2008-03,MA,Massachusetts,IND,industrial,13.53,cents per kilowatthour
+2008-03,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2008-03,MA,Massachusetts,RES,residential,16.79,cents per kilowatthour
+2008-03,MA,Massachusetts,TRA,transportation,9.16,cents per kilowatthour
+2008-03,MA,Massachusetts,ALL,all sectors,15.64,cents per kilowatthour
+2008-04,MA,Massachusetts,TRA,transportation,10.11,cents per kilowatthour
+2008-04,MA,Massachusetts,RES,residential,16.39,cents per kilowatthour
+2008-04,MA,Massachusetts,COM,commercial,15.02,cents per kilowatthour
+2008-04,MA,Massachusetts,IND,industrial,13.43,cents per kilowatthour
+2008-04,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2008-04,MA,Massachusetts,ALL,all sectors,15.14,cents per kilowatthour
+2008-05,MA,Massachusetts,ALL,all sectors,16.45,cents per kilowatthour
+2008-05,MA,Massachusetts,COM,commercial,16.54,cents per kilowatthour
+2008-05,MA,Massachusetts,RES,residential,17.75,cents per kilowatthour
+2008-05,MA,Massachusetts,IND,industrial,14.34,cents per kilowatthour
+2008-05,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2008-05,MA,Massachusetts,TRA,transportation,11.18,cents per kilowatthour
+2008-06,MA,Massachusetts,ALL,all sectors,16.73,cents per kilowatthour
+2008-06,MA,Massachusetts,COM,commercial,17.03,cents per kilowatthour
+2008-06,MA,Massachusetts,IND,industrial,14.75,cents per kilowatthour
+2008-06,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2008-06,MA,Massachusetts,RES,residential,17.33,cents per kilowatthour
+2008-06,MA,Massachusetts,TRA,transportation,12.53,cents per kilowatthour
+2008-07,MA,Massachusetts,COM,commercial,17.32,cents per kilowatthour
+2008-07,MA,Massachusetts,IND,industrial,15.05,cents per kilowatthour
+2008-07,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2008-07,MA,Massachusetts,RES,residential,17.62,cents per kilowatthour
+2008-07,MA,Massachusetts,TRA,transportation,15.14,cents per kilowatthour
+2008-07,MA,Massachusetts,ALL,all sectors,17.08,cents per kilowatthour
+2008-08,MA,Massachusetts,COM,commercial,17.19,cents per kilowatthour
+2008-08,MA,Massachusetts,IND,industrial,14.99,cents per kilowatthour
+2008-08,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2008-08,MA,Massachusetts,RES,residential,18.08,cents per kilowatthour
+2008-08,MA,Massachusetts,TRA,transportation,11.55,cents per kilowatthour
+2008-08,MA,Massachusetts,ALL,all sectors,17.14,cents per kilowatthour
+2008-09,MA,Massachusetts,TRA,transportation,9.67,cents per kilowatthour
+2008-09,MA,Massachusetts,RES,residential,17.95,cents per kilowatthour
+2008-09,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2008-09,MA,Massachusetts,IND,industrial,14.55,cents per kilowatthour
+2008-09,MA,Massachusetts,COM,commercial,15.86,cents per kilowatthour
+2008-09,MA,Massachusetts,ALL,all sectors,16.31,cents per kilowatthour
+2008-10,MA,Massachusetts,COM,commercial,16.41,cents per kilowatthour
+2008-10,MA,Massachusetts,IND,industrial,14.35,cents per kilowatthour
+2008-10,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2008-10,MA,Massachusetts,RES,residential,19.7,cents per kilowatthour
+2008-10,MA,Massachusetts,TRA,transportation,8.56,cents per kilowatthour
+2008-10,MA,Massachusetts,ALL,all sectors,16.96,cents per kilowatthour
+2008-11,MA,Massachusetts,IND,industrial,14.52,cents per kilowatthour
+2008-11,MA,Massachusetts,RES,residential,17.87,cents per kilowatthour
+2008-11,MA,Massachusetts,COM,commercial,15.51,cents per kilowatthour
+2008-11,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2008-11,MA,Massachusetts,TRA,transportation,7.79,cents per kilowatthour
+2008-11,MA,Massachusetts,ALL,all sectors,16.12,cents per kilowatthour
+2008-12,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2008-12,MA,Massachusetts,RES,residential,18.37,cents per kilowatthour
+2008-12,MA,Massachusetts,TRA,transportation,7.9,cents per kilowatthour
+2008-12,MA,Massachusetts,ALL,all sectors,16.59,cents per kilowatthour
+2008-12,MA,Massachusetts,COM,commercial,16.09,cents per kilowatthour
+2008-12,MA,Massachusetts,IND,industrial,14.05,cents per kilowatthour
+2009-01,MA,Massachusetts,COM,commercial,16.53,cents per kilowatthour
+2009-01,MA,Massachusetts,IND,industrial,13.85,cents per kilowatthour
+2009-01,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2009-01,MA,Massachusetts,RES,residential,18.19,cents per kilowatthour
+2009-01,MA,Massachusetts,TRA,transportation,8.11,cents per kilowatthour
+2009-01,MA,Massachusetts,ALL,all sectors,16.34,cents per kilowatthour
+2009-02,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2009-02,MA,Massachusetts,RES,residential,18.0,cents per kilowatthour
+2009-02,MA,Massachusetts,ALL,all sectors,16.12,cents per kilowatthour
+2009-02,MA,Massachusetts,COM,commercial,15.85,cents per kilowatthour
+2009-02,MA,Massachusetts,IND,industrial,14.12,cents per kilowatthour
+2009-02,MA,Massachusetts,TRA,transportation,7.07,cents per kilowatthour
+2009-03,MA,Massachusetts,RES,residential,17.32,cents per kilowatthour
+2009-03,MA,Massachusetts,TRA,transportation,6.37,cents per kilowatthour
+2009-03,MA,Massachusetts,ALL,all sectors,15.74,cents per kilowatthour
+2009-03,MA,Massachusetts,COM,commercial,15.48,cents per kilowatthour
+2009-03,MA,Massachusetts,IND,industrial,14.37,cents per kilowatthour
+2009-03,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2009-04,MA,Massachusetts,COM,commercial,15.44,cents per kilowatthour
+2009-04,MA,Massachusetts,IND,industrial,13.67,cents per kilowatthour
+2009-04,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2009-04,MA,Massachusetts,RES,residential,17.53,cents per kilowatthour
+2009-04,MA,Massachusetts,TRA,transportation,5.69,cents per kilowatthour
+2009-04,MA,Massachusetts,ALL,all sectors,15.56,cents per kilowatthour
+2009-05,MA,Massachusetts,IND,industrial,13.8,cents per kilowatthour
+2009-05,MA,Massachusetts,RES,residential,17.69,cents per kilowatthour
+2009-05,MA,Massachusetts,ALL,all sectors,15.42,cents per kilowatthour
+2009-05,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2009-05,MA,Massachusetts,TRA,transportation,5.4,cents per kilowatthour
+2009-05,MA,Massachusetts,COM,commercial,15.12,cents per kilowatthour
+2009-06,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2009-06,MA,Massachusetts,TRA,transportation,5.55,cents per kilowatthour
+2009-06,MA,Massachusetts,ALL,all sectors,15.86,cents per kilowatthour
+2009-06,MA,Massachusetts,IND,industrial,14.41,cents per kilowatthour
+2009-06,MA,Massachusetts,RES,residential,17.62,cents per kilowatthour
+2009-06,MA,Massachusetts,COM,commercial,15.68,cents per kilowatthour
+2009-07,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2009-07,MA,Massachusetts,RES,residential,16.48,cents per kilowatthour
+2009-07,MA,Massachusetts,TRA,transportation,6.25,cents per kilowatthour
+2009-07,MA,Massachusetts,ALL,all sectors,15.35,cents per kilowatthour
+2009-07,MA,Massachusetts,COM,commercial,15.2,cents per kilowatthour
+2009-07,MA,Massachusetts,IND,industrial,14.37,cents per kilowatthour
+2009-08,MA,Massachusetts,IND,industrial,14.67,cents per kilowatthour
+2009-08,MA,Massachusetts,RES,residential,15.92,cents per kilowatthour
+2009-08,MA,Massachusetts,ALL,all sectors,15.29,cents per kilowatthour
+2009-08,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2009-08,MA,Massachusetts,TRA,transportation,5.89,cents per kilowatthour
+2009-08,MA,Massachusetts,COM,commercial,15.25,cents per kilowatthour
+2009-09,MA,Massachusetts,COM,commercial,15.66,cents per kilowatthour
+2009-09,MA,Massachusetts,IND,industrial,14.49,cents per kilowatthour
+2009-09,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2009-09,MA,Massachusetts,RES,residential,17.28,cents per kilowatthour
+2009-09,MA,Massachusetts,TRA,transportation,5.34,cents per kilowatthour
+2009-09,MA,Massachusetts,ALL,all sectors,15.79,cents per kilowatthour
+2009-10,MA,Massachusetts,COM,commercial,15.16,cents per kilowatthour
+2009-10,MA,Massachusetts,RES,residential,16.11,cents per kilowatthour
+2009-10,MA,Massachusetts,TRA,transportation,5.7,cents per kilowatthour
+2009-10,MA,Massachusetts,IND,industrial,13.91,cents per kilowatthour
+2009-10,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2009-10,MA,Massachusetts,ALL,all sectors,15.0,cents per kilowatthour
+2009-11,MA,Massachusetts,COM,commercial,14.46,cents per kilowatthour
+2009-11,MA,Massachusetts,IND,industrial,13.61,cents per kilowatthour
+2009-11,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2009-11,MA,Massachusetts,RES,residential,15.85,cents per kilowatthour
+2009-11,MA,Massachusetts,TRA,transportation,6.12,cents per kilowatthour
+2009-11,MA,Massachusetts,ALL,all sectors,14.6,cents per kilowatthour
+2009-12,MA,Massachusetts,COM,commercial,14.47,cents per kilowatthour
+2009-12,MA,Massachusetts,IND,industrial,13.55,cents per kilowatthour
+2009-12,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2009-12,MA,Massachusetts,RES,residential,14.67,cents per kilowatthour
+2009-12,MA,Massachusetts,TRA,transportation,6.12,cents per kilowatthour
+2009-12,MA,Massachusetts,ALL,all sectors,14.21,cents per kilowatthour
+2010-01,MA,Massachusetts,COM,commercial,14.31,cents per kilowatthour
+2010-01,MA,Massachusetts,IND,industrial,13.34,cents per kilowatthour
+2010-01,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2010-01,MA,Massachusetts,RES,residential,15.05,cents per kilowatthour
+2010-01,MA,Massachusetts,TRA,transportation,8.03,cents per kilowatthour
+2010-01,MA,Massachusetts,ALL,all sectors,14.29,cents per kilowatthour
+2010-02,MA,Massachusetts,COM,commercial,14.28,cents per kilowatthour
+2010-02,MA,Massachusetts,IND,industrial,13.45,cents per kilowatthour
+2010-02,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2010-02,MA,Massachusetts,RES,residential,14.41,cents per kilowatthour
+2010-02,MA,Massachusetts,TRA,transportation,7.9,cents per kilowatthour
+2010-02,MA,Massachusetts,ALL,all sectors,14.06,cents per kilowatthour
+2010-03,MA,Massachusetts,COM,commercial,14.52,cents per kilowatthour
+2010-03,MA,Massachusetts,IND,industrial,13.22,cents per kilowatthour
+2010-03,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2010-03,MA,Massachusetts,RES,residential,15.12,cents per kilowatthour
+2010-03,MA,Massachusetts,TRA,transportation,6.77,cents per kilowatthour
+2010-03,MA,Massachusetts,ALL,all sectors,14.28,cents per kilowatthour
+2010-04,MA,Massachusetts,COM,commercial,14.7,cents per kilowatthour
+2010-04,MA,Massachusetts,IND,industrial,13.53,cents per kilowatthour
+2010-04,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2010-04,MA,Massachusetts,RES,residential,15.2,cents per kilowatthour
+2010-04,MA,Massachusetts,TRA,transportation,5.77,cents per kilowatthour
+2010-04,MA,Massachusetts,ALL,all sectors,14.44,cents per kilowatthour
+2010-05,MA,Massachusetts,COM,commercial,14.03,cents per kilowatthour
+2010-05,MA,Massachusetts,IND,industrial,13.24,cents per kilowatthour
+2010-05,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2010-05,MA,Massachusetts,RES,residential,14.48,cents per kilowatthour
+2010-05,MA,Massachusetts,TRA,transportation,5.98,cents per kilowatthour
+2010-05,MA,Massachusetts,ALL,all sectors,13.87,cents per kilowatthour
+2010-06,MA,Massachusetts,COM,commercial,14.69,cents per kilowatthour
+2010-06,MA,Massachusetts,IND,industrial,14.15,cents per kilowatthour
+2010-06,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2010-06,MA,Massachusetts,RES,residential,14.08,cents per kilowatthour
+2010-06,MA,Massachusetts,TRA,transportation,6.05,cents per kilowatthour
+2010-06,MA,Massachusetts,ALL,all sectors,14.26,cents per kilowatthour
+2010-07,MA,Massachusetts,COM,commercial,14.93,cents per kilowatthour
+2010-07,MA,Massachusetts,IND,industrial,14.39,cents per kilowatthour
+2010-07,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2010-07,MA,Massachusetts,RES,residential,14.22,cents per kilowatthour
+2010-07,MA,Massachusetts,TRA,transportation,6.78,cents per kilowatthour
+2010-07,MA,Massachusetts,ALL,all sectors,14.45,cents per kilowatthour
+2010-08,MA,Massachusetts,COM,commercial,15.24,cents per kilowatthour
+2010-08,MA,Massachusetts,IND,industrial,14.5,cents per kilowatthour
+2010-08,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2010-08,MA,Massachusetts,RES,residential,14.88,cents per kilowatthour
+2010-08,MA,Massachusetts,TRA,transportation,6.93,cents per kilowatthour
+2010-08,MA,Massachusetts,ALL,all sectors,14.85,cents per kilowatthour
+2010-09,MA,Massachusetts,COM,commercial,15.15,cents per kilowatthour
+2010-09,MA,Massachusetts,IND,industrial,14.32,cents per kilowatthour
+2010-09,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2010-09,MA,Massachusetts,RES,residential,14.64,cents per kilowatthour
+2010-09,MA,Massachusetts,TRA,transportation,5.79,cents per kilowatthour
+2010-09,MA,Massachusetts,ALL,all sectors,14.66,cents per kilowatthour
+2010-10,MA,Massachusetts,COM,commercial,14.06,cents per kilowatthour
+2010-10,MA,Massachusetts,IND,industrial,13.34,cents per kilowatthour
+2010-10,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2010-10,MA,Massachusetts,RES,residential,14.55,cents per kilowatthour
+2010-10,MA,Massachusetts,TRA,transportation,5.64,cents per kilowatthour
+2010-10,MA,Massachusetts,ALL,all sectors,13.94,cents per kilowatthour
+2010-11,MA,Massachusetts,COM,commercial,13.79,cents per kilowatthour
+2010-11,MA,Massachusetts,IND,industrial,13.26,cents per kilowatthour
+2010-11,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2010-11,MA,Massachusetts,RES,residential,14.17,cents per kilowatthour
+2010-11,MA,Massachusetts,TRA,transportation,5.01,cents per kilowatthour
+2010-11,MA,Massachusetts,ALL,all sectors,13.69,cents per kilowatthour
+2010-12,MA,Massachusetts,COM,commercial,14.42,cents per kilowatthour
+2010-12,MA,Massachusetts,IND,industrial,13.59,cents per kilowatthour
+2010-12,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2010-12,MA,Massachusetts,RES,residential,14.42,cents per kilowatthour
+2010-12,MA,Massachusetts,TRA,transportation,5.62,cents per kilowatthour
+2010-12,MA,Massachusetts,ALL,all sectors,14.13,cents per kilowatthour
+2011-01,MA,Massachusetts,COM,commercial,14.21,cents per kilowatthour
+2011-01,MA,Massachusetts,IND,industrial,13.39,cents per kilowatthour
+2011-01,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2011-01,MA,Massachusetts,RES,residential,14.48,cents per kilowatthour
+2011-01,MA,Massachusetts,TRA,transportation,6.5,cents per kilowatthour
+2011-01,MA,Massachusetts,ALL,all sectors,14.04,cents per kilowatthour
+2011-02,MA,Massachusetts,COM,commercial,13.84,cents per kilowatthour
+2011-02,MA,Massachusetts,IND,industrial,12.96,cents per kilowatthour
+2011-02,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2011-02,MA,Massachusetts,RES,residential,14.36,cents per kilowatthour
+2011-02,MA,Massachusetts,TRA,transportation,7.28,cents per kilowatthour
+2011-02,MA,Massachusetts,ALL,all sectors,13.75,cents per kilowatthour
+2011-03,MA,Massachusetts,COM,commercial,13.97,cents per kilowatthour
+2011-03,MA,Massachusetts,IND,industrial,12.95,cents per kilowatthour
+2011-03,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2011-03,MA,Massachusetts,RES,residential,14.55,cents per kilowatthour
+2011-03,MA,Massachusetts,TRA,transportation,6.12,cents per kilowatthour
+2011-03,MA,Massachusetts,ALL,all sectors,13.81,cents per kilowatthour
+2011-04,MA,Massachusetts,COM,commercial,13.85,cents per kilowatthour
+2011-04,MA,Massachusetts,IND,industrial,12.54,cents per kilowatthour
+2011-04,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2011-04,MA,Massachusetts,RES,residential,14.09,cents per kilowatthour
+2011-04,MA,Massachusetts,TRA,transportation,6.3,cents per kilowatthour
+2011-04,MA,Massachusetts,ALL,all sectors,13.47,cents per kilowatthour
+2011-05,MA,Massachusetts,COM,commercial,14.0,cents per kilowatthour
+2011-05,MA,Massachusetts,IND,industrial,13.15,cents per kilowatthour
+2011-05,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2011-05,MA,Massachusetts,RES,residential,15.0,cents per kilowatthour
+2011-05,MA,Massachusetts,TRA,transportation,6.24,cents per kilowatthour
+2011-05,MA,Massachusetts,ALL,all sectors,14.0,cents per kilowatthour
+2011-06,MA,Massachusetts,COM,commercial,15.18,cents per kilowatthour
+2011-06,MA,Massachusetts,IND,industrial,14.26,cents per kilowatthour
+2011-06,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2011-06,MA,Massachusetts,RES,residential,15.12,cents per kilowatthour
+2011-06,MA,Massachusetts,TRA,transportation,6.25,cents per kilowatthour
+2011-06,MA,Massachusetts,ALL,all sectors,14.82,cents per kilowatthour
+2011-07,MA,Massachusetts,COM,commercial,14.33,cents per kilowatthour
+2011-07,MA,Massachusetts,IND,industrial,13.6,cents per kilowatthour
+2011-07,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2011-07,MA,Massachusetts,RES,residential,14.13,cents per kilowatthour
+2011-07,MA,Massachusetts,TRA,transportation,6.5,cents per kilowatthour
+2011-07,MA,Massachusetts,ALL,all sectors,14.0,cents per kilowatthour
+2011-08,MA,Massachusetts,COM,commercial,15.06,cents per kilowatthour
+2011-08,MA,Massachusetts,IND,industrial,14.14,cents per kilowatthour
+2011-08,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2011-08,MA,Massachusetts,RES,residential,15.09,cents per kilowatthour
+2011-08,MA,Massachusetts,TRA,transportation,6.55,cents per kilowatthour
+2011-08,MA,Massachusetts,ALL,all sectors,14.76,cents per kilowatthour
+2011-09,MA,Massachusetts,COM,commercial,15.38,cents per kilowatthour
+2011-09,MA,Massachusetts,IND,industrial,13.98,cents per kilowatthour
+2011-09,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2011-09,MA,Massachusetts,RES,residential,15.58,cents per kilowatthour
+2011-09,MA,Massachusetts,TRA,transportation,5.58,cents per kilowatthour
+2011-09,MA,Massachusetts,ALL,all sectors,14.93,cents per kilowatthour
+2011-10,MA,Massachusetts,COM,commercial,13.85,cents per kilowatthour
+2011-10,MA,Massachusetts,IND,industrial,12.94,cents per kilowatthour
+2011-10,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2011-10,MA,Massachusetts,RES,residential,13.98,cents per kilowatthour
+2011-10,MA,Massachusetts,TRA,transportation,5.66,cents per kilowatthour
+2011-10,MA,Massachusetts,ALL,all sectors,13.54,cents per kilowatthour
+2011-11,MA,Massachusetts,COM,commercial,13.81,cents per kilowatthour
+2011-11,MA,Massachusetts,IND,industrial,13.03,cents per kilowatthour
+2011-11,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2011-11,MA,Massachusetts,RES,residential,14.49,cents per kilowatthour
+2011-11,MA,Massachusetts,TRA,transportation,5.38,cents per kilowatthour
+2011-11,MA,Massachusetts,ALL,all sectors,13.74,cents per kilowatthour
+2011-12,MA,Massachusetts,COM,commercial,14.28,cents per kilowatthour
+2011-12,MA,Massachusetts,IND,industrial,13.41,cents per kilowatthour
+2011-12,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2011-12,MA,Massachusetts,RES,residential,15.2,cents per kilowatthour
+2011-12,MA,Massachusetts,TRA,transportation,5.07,cents per kilowatthour
+2011-12,MA,Massachusetts,ALL,all sectors,14.31,cents per kilowatthour
+2012-01,MA,Massachusetts,TRA,transportation,5.16,cents per kilowatthour
+2012-01,MA,Massachusetts,ALL,all sectors,13.79,cents per kilowatthour
+2012-01,MA,Massachusetts,COM,commercial,13.67,cents per kilowatthour
+2012-01,MA,Massachusetts,IND,industrial,12.32,cents per kilowatthour
+2012-01,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2012-01,MA,Massachusetts,RES,residential,15.1,cents per kilowatthour
+2012-02,MA,Massachusetts,TRA,transportation,4.91,cents per kilowatthour
+2012-02,MA,Massachusetts,ALL,all sectors,13.9,cents per kilowatthour
+2012-02,MA,Massachusetts,COM,commercial,13.9,cents per kilowatthour
+2012-02,MA,Massachusetts,IND,industrial,12.22,cents per kilowatthour
+2012-02,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2012-02,MA,Massachusetts,RES,residential,15.41,cents per kilowatthour
+2012-03,MA,Massachusetts,COM,commercial,14.05,cents per kilowatthour
+2012-03,MA,Massachusetts,IND,industrial,12.5,cents per kilowatthour
+2012-03,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2012-03,MA,Massachusetts,RES,residential,15.72,cents per kilowatthour
+2012-03,MA,Massachusetts,TRA,transportation,4.42,cents per kilowatthour
+2012-03,MA,Massachusetts,ALL,all sectors,14.1,cents per kilowatthour
+2012-04,MA,Massachusetts,COM,commercial,13.28,cents per kilowatthour
+2012-04,MA,Massachusetts,IND,industrial,12.11,cents per kilowatthour
+2012-04,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2012-04,MA,Massachusetts,RES,residential,14.8,cents per kilowatthour
+2012-04,MA,Massachusetts,TRA,transportation,4.28,cents per kilowatthour
+2012-04,MA,Massachusetts,ALL,all sectors,13.33,cents per kilowatthour
+2012-05,MA,Massachusetts,COM,commercial,13.68,cents per kilowatthour
+2012-05,MA,Massachusetts,IND,industrial,12.47,cents per kilowatthour
+2012-05,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2012-05,MA,Massachusetts,RES,residential,15.39,cents per kilowatthour
+2012-05,MA,Massachusetts,TRA,transportation,4.19,cents per kilowatthour
+2012-05,MA,Massachusetts,ALL,all sectors,13.81,cents per kilowatthour
+2012-06,MA,Massachusetts,COM,commercial,14.27,cents per kilowatthour
+2012-06,MA,Massachusetts,IND,industrial,13.57,cents per kilowatthour
+2012-06,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2012-06,MA,Massachusetts,RES,residential,15.48,cents per kilowatthour
+2012-06,MA,Massachusetts,TRA,transportation,4.61,cents per kilowatthour
+2012-06,MA,Massachusetts,ALL,all sectors,14.42,cents per kilowatthour
+2012-07,MA,Massachusetts,COM,commercial,14.17,cents per kilowatthour
+2012-07,MA,Massachusetts,IND,industrial,13.06,cents per kilowatthour
+2012-07,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2012-07,MA,Massachusetts,RES,residential,14.58,cents per kilowatthour
+2012-07,MA,Massachusetts,TRA,transportation,4.95,cents per kilowatthour
+2012-07,MA,Massachusetts,ALL,all sectors,13.97,cents per kilowatthour
+2012-08,MA,Massachusetts,TRA,transportation,5.41,cents per kilowatthour
+2012-08,MA,Massachusetts,ALL,all sectors,13.63,cents per kilowatthour
+2012-08,MA,Massachusetts,COM,commercial,13.59,cents per kilowatthour
+2012-08,MA,Massachusetts,IND,industrial,13.1,cents per kilowatthour
+2012-08,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2012-08,MA,Massachusetts,RES,residential,14.16,cents per kilowatthour
+2012-09,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2012-09,MA,Massachusetts,RES,residential,15.2,cents per kilowatthour
+2012-09,MA,Massachusetts,TRA,transportation,4.93,cents per kilowatthour
+2012-09,MA,Massachusetts,ALL,all sectors,14.08,cents per kilowatthour
+2012-09,MA,Massachusetts,COM,commercial,14.12,cents per kilowatthour
+2012-09,MA,Massachusetts,IND,industrial,12.89,cents per kilowatthour
+2012-10,MA,Massachusetts,COM,commercial,13.05,cents per kilowatthour
+2012-10,MA,Massachusetts,IND,industrial,11.95,cents per kilowatthour
+2012-10,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2012-10,MA,Massachusetts,RES,residential,14.38,cents per kilowatthour
+2012-10,MA,Massachusetts,TRA,transportation,5.07,cents per kilowatthour
+2012-10,MA,Massachusetts,ALL,all sectors,13.09,cents per kilowatthour
+2012-11,MA,Massachusetts,COM,commercial,13.32,cents per kilowatthour
+2012-11,MA,Massachusetts,IND,industrial,12.15,cents per kilowatthour
+2012-11,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2012-11,MA,Massachusetts,RES,residential,13.77,cents per kilowatthour
+2012-11,MA,Massachusetts,TRA,transportation,5.29,cents per kilowatthour
+2012-11,MA,Massachusetts,ALL,all sectors,13.05,cents per kilowatthour
+2012-12,MA,Massachusetts,COM,commercial,14.9,cents per kilowatthour
+2012-12,MA,Massachusetts,IND,industrial,12.24,cents per kilowatthour
+2012-12,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2012-12,MA,Massachusetts,RES,residential,15.19,cents per kilowatthour
+2012-12,MA,Massachusetts,TRA,transportation,5.5,cents per kilowatthour
+2012-12,MA,Massachusetts,ALL,all sectors,14.15,cents per kilowatthour
+2013-01,MA,Massachusetts,COM,commercial,13.68,cents per kilowatthour
+2013-01,MA,Massachusetts,IND,industrial,12.53,cents per kilowatthour
+2013-01,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2013-01,MA,Massachusetts,RES,residential,14.35,cents per kilowatthour
+2013-01,MA,Massachusetts,TRA,transportation,10.98,cents per kilowatthour
+2013-01,MA,Massachusetts,ALL,all sectors,13.6,cents per kilowatthour
+2013-02,MA,Massachusetts,COM,commercial,14.86,cents per kilowatthour
+2013-02,MA,Massachusetts,IND,industrial,13.62,cents per kilowatthour
+2013-02,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2013-02,MA,Massachusetts,RES,residential,14.93,cents per kilowatthour
+2013-02,MA,Massachusetts,TRA,transportation,12.42,cents per kilowatthour
+2013-02,MA,Massachusetts,ALL,all sectors,14.51,cents per kilowatthour
+2013-03,MA,Massachusetts,COM,commercial,14.81,cents per kilowatthour
+2013-03,MA,Massachusetts,IND,industrial,13.18,cents per kilowatthour
+2013-03,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2013-03,MA,Massachusetts,RES,residential,14.84,cents per kilowatthour
+2013-03,MA,Massachusetts,TRA,transportation,13.25,cents per kilowatthour
+2013-03,MA,Massachusetts,ALL,all sectors,14.32,cents per kilowatthour
+2013-04,MA,Massachusetts,COM,commercial,13.5,cents per kilowatthour
+2013-04,MA,Massachusetts,IND,industrial,12.66,cents per kilowatthour
+2013-04,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2013-04,MA,Massachusetts,RES,residential,15.06,cents per kilowatthour
+2013-04,MA,Massachusetts,TRA,transportation,13.04,cents per kilowatthour
+2013-04,MA,Massachusetts,ALL,all sectors,13.79,cents per kilowatthour
+2013-05,MA,Massachusetts,COM,commercial,13.41,cents per kilowatthour
+2013-05,MA,Massachusetts,IND,industrial,12.8,cents per kilowatthour
+2013-05,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2013-05,MA,Massachusetts,RES,residential,15.82,cents per kilowatthour
+2013-05,MA,Massachusetts,TRA,transportation,13.36,cents per kilowatthour
+2013-05,MA,Massachusetts,ALL,all sectors,14.01,cents per kilowatthour
+2013-06,MA,Massachusetts,COM,commercial,14.2,cents per kilowatthour
+2013-06,MA,Massachusetts,IND,industrial,13.45,cents per kilowatthour
+2013-06,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2013-06,MA,Massachusetts,RES,residential,15.92,cents per kilowatthour
+2013-06,MA,Massachusetts,TRA,transportation,13.4,cents per kilowatthour
+2013-06,MA,Massachusetts,ALL,all sectors,14.6,cents per kilowatthour
+2013-07,MA,Massachusetts,COM,commercial,14.19,cents per kilowatthour
+2013-07,MA,Massachusetts,IND,industrial,13.9,cents per kilowatthour
+2013-07,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2013-07,MA,Massachusetts,RES,residential,15.2,cents per kilowatthour
+2013-07,MA,Massachusetts,TRA,transportation,13.55,cents per kilowatthour
+2013-07,MA,Massachusetts,ALL,all sectors,14.52,cents per kilowatthour
+2013-08,MA,Massachusetts,COM,commercial,14.16,cents per kilowatthour
+2013-08,MA,Massachusetts,IND,industrial,13.77,cents per kilowatthour
+2013-08,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2013-08,MA,Massachusetts,RES,residential,16.03,cents per kilowatthour
+2013-08,MA,Massachusetts,TRA,transportation,13.16,cents per kilowatthour
+2013-08,MA,Massachusetts,ALL,all sectors,14.76,cents per kilowatthour
+2013-09,MA,Massachusetts,COM,commercial,13.93,cents per kilowatthour
+2013-09,MA,Massachusetts,IND,industrial,13.61,cents per kilowatthour
+2013-09,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2013-09,MA,Massachusetts,RES,residential,15.94,cents per kilowatthour
+2013-09,MA,Massachusetts,TRA,transportation,13.43,cents per kilowatthour
+2013-09,MA,Massachusetts,ALL,all sectors,14.55,cents per kilowatthour
+2013-10,MA,Massachusetts,COM,commercial,13.65,cents per kilowatthour
+2013-10,MA,Massachusetts,IND,industrial,12.54,cents per kilowatthour
+2013-10,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2013-10,MA,Massachusetts,RES,residential,15.74,cents per kilowatthour
+2013-10,MA,Massachusetts,TRA,transportation,13.51,cents per kilowatthour
+2013-10,MA,Massachusetts,ALL,all sectors,14.0,cents per kilowatthour
+2013-11,MA,Massachusetts,TRA,transportation,13.55,cents per kilowatthour
+2013-11,MA,Massachusetts,ALL,all sectors,14.26,cents per kilowatthour
+2013-11,MA,Massachusetts,COM,commercial,13.93,cents per kilowatthour
+2013-11,MA,Massachusetts,IND,industrial,12.42,cents per kilowatthour
+2013-11,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2013-11,MA,Massachusetts,RES,residential,16.14,cents per kilowatthour
+2013-12,MA,Massachusetts,COM,commercial,16.42,cents per kilowatthour
+2013-12,MA,Massachusetts,IND,industrial,13.42,cents per kilowatthour
+2013-12,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2013-12,MA,Massachusetts,RES,residential,20.0,cents per kilowatthour
+2013-12,MA,Massachusetts,TRA,transportation,13.45,cents per kilowatthour
+2013-12,MA,Massachusetts,ALL,all sectors,17.02,cents per kilowatthour
+2014-01,MA,Massachusetts,COM,commercial,15.55,cents per kilowatthour
+2014-01,MA,Massachusetts,IND,industrial,13.29,cents per kilowatthour
+2014-01,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2014-01,MA,Massachusetts,RES,residential,16.77,cents per kilowatthour
+2014-01,MA,Massachusetts,TRA,transportation,8.57,cents per kilowatthour
+2014-01,MA,Massachusetts,ALL,all sectors,15.72,cents per kilowatthour
+2014-02,MA,Massachusetts,COM,commercial,15.94,cents per kilowatthour
+2014-02,MA,Massachusetts,IND,industrial,13.74,cents per kilowatthour
+2014-02,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2014-02,MA,Massachusetts,RES,residential,17.47,cents per kilowatthour
+2014-02,MA,Massachusetts,TRA,transportation,8.56,cents per kilowatthour
+2014-02,MA,Massachusetts,ALL,all sectors,16.21,cents per kilowatthour
+2014-03,MA,Massachusetts,COM,commercial,15.51,cents per kilowatthour
+2014-03,MA,Massachusetts,IND,industrial,13.37,cents per kilowatthour
+2014-03,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2014-03,MA,Massachusetts,RES,residential,17.27,cents per kilowatthour
+2014-03,MA,Massachusetts,TRA,transportation,8.61,cents per kilowatthour
+2014-03,MA,Massachusetts,ALL,all sectors,15.84,cents per kilowatthour
+2014-04,MA,Massachusetts,COM,commercial,14.28,cents per kilowatthour
+2014-04,MA,Massachusetts,IND,industrial,12.5,cents per kilowatthour
+2014-04,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2014-04,MA,Massachusetts,RES,residential,18.15,cents per kilowatthour
+2014-04,MA,Massachusetts,TRA,transportation,8.61,cents per kilowatthour
+2014-04,MA,Massachusetts,ALL,all sectors,15.33,cents per kilowatthour
+2014-05,MA,Massachusetts,COM,commercial,13.67,cents per kilowatthour
+2014-05,MA,Massachusetts,IND,industrial,12.12,cents per kilowatthour
+2014-05,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2014-05,MA,Massachusetts,RES,residential,17.57,cents per kilowatthour
+2014-05,MA,Massachusetts,TRA,transportation,8.34,cents per kilowatthour
+2014-05,MA,Massachusetts,ALL,all sectors,14.69,cents per kilowatthour
+2014-06,MA,Massachusetts,COM,commercial,14.35,cents per kilowatthour
+2014-06,MA,Massachusetts,IND,industrial,13.3,cents per kilowatthour
+2014-06,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2014-06,MA,Massachusetts,RES,residential,16.56,cents per kilowatthour
+2014-06,MA,Massachusetts,TRA,transportation,9.1,cents per kilowatthour
+2014-06,MA,Massachusetts,ALL,all sectors,14.91,cents per kilowatthour
+2014-07,MA,Massachusetts,COM,commercial,14.7,cents per kilowatthour
+2014-07,MA,Massachusetts,IND,industrial,13.02,cents per kilowatthour
+2014-07,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2014-07,MA,Massachusetts,RES,residential,16.27,cents per kilowatthour
+2014-07,MA,Massachusetts,TRA,transportation,8.7,cents per kilowatthour
+2014-07,MA,Massachusetts,ALL,all sectors,15.03,cents per kilowatthour
+2014-08,MA,Massachusetts,COM,commercial,14.8,cents per kilowatthour
+2014-08,MA,Massachusetts,IND,industrial,12.87,cents per kilowatthour
+2014-08,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2014-08,MA,Massachusetts,RES,residential,17.75,cents per kilowatthour
+2014-08,MA,Massachusetts,TRA,transportation,8.94,cents per kilowatthour
+2014-08,MA,Massachusetts,ALL,all sectors,15.56,cents per kilowatthour
+2014-09,MA,Massachusetts,COM,commercial,14.48,cents per kilowatthour
+2014-09,MA,Massachusetts,IND,industrial,12.85,cents per kilowatthour
+2014-09,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2014-09,MA,Massachusetts,RES,residential,16.75,cents per kilowatthour
+2014-09,MA,Massachusetts,TRA,transportation,9.05,cents per kilowatthour
+2014-09,MA,Massachusetts,ALL,all sectors,15.05,cents per kilowatthour
+2014-10,MA,Massachusetts,COM,commercial,14.01,cents per kilowatthour
+2014-10,MA,Massachusetts,IND,industrial,11.9,cents per kilowatthour
+2014-10,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2014-10,MA,Massachusetts,RES,residential,16.9,cents per kilowatthour
+2014-10,MA,Massachusetts,TRA,transportation,9.03,cents per kilowatthour
+2014-10,MA,Massachusetts,ALL,all sectors,14.56,cents per kilowatthour
+2014-11,MA,Massachusetts,COM,commercial,13.68,cents per kilowatthour
+2014-11,MA,Massachusetts,IND,industrial,11.7,cents per kilowatthour
+2014-11,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2014-11,MA,Massachusetts,RES,residential,17.61,cents per kilowatthour
+2014-11,MA,Massachusetts,TRA,transportation,8.96,cents per kilowatthour
+2014-11,MA,Massachusetts,ALL,all sectors,14.69,cents per kilowatthour
+2014-12,MA,Massachusetts,IND,industrial,12.36,cents per kilowatthour
+2014-12,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2014-12,MA,Massachusetts,RES,residential,19.89,cents per kilowatthour
+2014-12,MA,Massachusetts,TRA,transportation,8.87,cents per kilowatthour
+2014-12,MA,Massachusetts,ALL,all sectors,16.42,cents per kilowatthour
+2014-12,MA,Massachusetts,COM,commercial,14.97,cents per kilowatthour
+2015-01,MA,Massachusetts,COM,commercial,16.55,cents per kilowatthour
+2015-01,MA,Massachusetts,IND,industrial,13.54,cents per kilowatthour
+2015-01,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2015-01,MA,Massachusetts,RES,residential,20.81,cents per kilowatthour
+2015-01,MA,Massachusetts,TRA,transportation,7.8,cents per kilowatthour
+2015-01,MA,Massachusetts,ALL,all sectors,17.85,cents per kilowatthour
+2015-02,MA,Massachusetts,COM,commercial,17.62,cents per kilowatthour
+2015-02,MA,Massachusetts,IND,industrial,14.7,cents per kilowatthour
+2015-02,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2015-02,MA,Massachusetts,RES,residential,21.7,cents per kilowatthour
+2015-02,MA,Massachusetts,TRA,transportation,9.72,cents per kilowatthour
+2015-02,MA,Massachusetts,ALL,all sectors,18.85,cents per kilowatthour
+2015-03,MA,Massachusetts,COM,commercial,17.33,cents per kilowatthour
+2015-03,MA,Massachusetts,IND,industrial,14.15,cents per kilowatthour
+2015-03,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2015-03,MA,Massachusetts,RES,residential,22.1,cents per kilowatthour
+2015-03,MA,Massachusetts,TRA,transportation,7.86,cents per kilowatthour
+2015-03,MA,Massachusetts,ALL,all sectors,18.67,cents per kilowatthour
+2015-04,MA,Massachusetts,COM,commercial,15.94,cents per kilowatthour
+2015-04,MA,Massachusetts,IND,industrial,13.25,cents per kilowatthour
+2015-04,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2015-04,MA,Massachusetts,RES,residential,21.66,cents per kilowatthour
+2015-04,MA,Massachusetts,TRA,transportation,6.99,cents per kilowatthour
+2015-04,MA,Massachusetts,ALL,all sectors,17.47,cents per kilowatthour
+2015-05,MA,Massachusetts,COM,commercial,14.94,cents per kilowatthour
+2015-05,MA,Massachusetts,IND,industrial,12.7,cents per kilowatthour
+2015-05,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2015-05,MA,Massachusetts,RES,residential,20.7,cents per kilowatthour
+2015-05,MA,Massachusetts,TRA,transportation,7.3,cents per kilowatthour
+2015-05,MA,Massachusetts,ALL,all sectors,16.37,cents per kilowatthour
+2015-06,MA,Massachusetts,COM,commercial,15.2,cents per kilowatthour
+2015-06,MA,Massachusetts,IND,industrial,13.42,cents per kilowatthour
+2015-06,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2015-06,MA,Massachusetts,RES,residential,19.54,cents per kilowatthour
+2015-06,MA,Massachusetts,TRA,transportation,7.36,cents per kilowatthour
+2015-06,MA,Massachusetts,ALL,all sectors,16.36,cents per kilowatthour
+2015-07,MA,Massachusetts,COM,commercial,15.4,cents per kilowatthour
+2015-07,MA,Massachusetts,IND,industrial,13.61,cents per kilowatthour
+2015-07,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2015-07,MA,Massachusetts,RES,residential,18.06,cents per kilowatthour
+2015-07,MA,Massachusetts,TRA,transportation,7.63,cents per kilowatthour
+2015-07,MA,Massachusetts,ALL,all sectors,16.11,cents per kilowatthour
+2015-08,MA,Massachusetts,COM,commercial,15.5,cents per kilowatthour
+2015-08,MA,Massachusetts,IND,industrial,13.8,cents per kilowatthour
+2015-08,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2015-08,MA,Massachusetts,RES,residential,18.02,cents per kilowatthour
+2015-08,MA,Massachusetts,TRA,transportation,8.22,cents per kilowatthour
+2015-08,MA,Massachusetts,ALL,all sectors,16.22,cents per kilowatthour
+2015-09,MA,Massachusetts,ALL,all sectors,16.6,cents per kilowatthour
+2015-09,MA,Massachusetts,COM,commercial,15.72,cents per kilowatthour
+2015-09,MA,Massachusetts,IND,industrial,13.76,cents per kilowatthour
+2015-09,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2015-09,MA,Massachusetts,RES,residential,18.87,cents per kilowatthour
+2015-09,MA,Massachusetts,TRA,transportation,8.31,cents per kilowatthour
+2015-10,MA,Massachusetts,COM,commercial,15.27,cents per kilowatthour
+2015-10,MA,Massachusetts,IND,industrial,13.4,cents per kilowatthour
+2015-10,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2015-10,MA,Massachusetts,TRA,transportation,7.01,cents per kilowatthour
+2015-10,MA,Massachusetts,RES,residential,18.42,cents per kilowatthour
+2015-10,MA,Massachusetts,ALL,all sectors,15.97,cents per kilowatthour
+2015-11,MA,Massachusetts,COM,commercial,14.6,cents per kilowatthour
+2015-11,MA,Massachusetts,IND,industrial,13.19,cents per kilowatthour
+2015-11,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2015-11,MA,Massachusetts,RES,residential,18.35,cents per kilowatthour
+2015-11,MA,Massachusetts,TRA,transportation,6.75,cents per kilowatthour
+2015-11,MA,Massachusetts,ALL,all sectors,15.59,cents per kilowatthour
+2015-12,MA,Massachusetts,COM,commercial,15.26,cents per kilowatthour
+2015-12,MA,Massachusetts,IND,industrial,13.09,cents per kilowatthour
+2015-12,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2015-12,MA,Massachusetts,RES,residential,19.63,cents per kilowatthour
+2015-12,MA,Massachusetts,TRA,transportation,7.7,cents per kilowatthour
+2015-12,MA,Massachusetts,ALL,all sectors,16.51,cents per kilowatthour
+2016-01,MA,Massachusetts,COM,commercial,15.46,cents per kilowatthour
+2016-01,MA,Massachusetts,IND,industrial,13.28,cents per kilowatthour
+2016-01,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2016-01,MA,Massachusetts,RES,residential,19.41,cents per kilowatthour
+2016-01,MA,Massachusetts,TRA,transportation,7.01,cents per kilowatthour
+2016-01,MA,Massachusetts,ALL,all sectors,16.62,cents per kilowatthour
+2016-02,MA,Massachusetts,ALL,all sectors,17.06,cents per kilowatthour
+2016-02,MA,Massachusetts,COM,commercial,16.05,cents per kilowatthour
+2016-02,MA,Massachusetts,IND,industrial,13.46,cents per kilowatthour
+2016-02,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2016-02,MA,Massachusetts,RES,residential,19.75,cents per kilowatthour
+2016-02,MA,Massachusetts,TRA,transportation,7.81,cents per kilowatthour
+2016-03,MA,Massachusetts,COM,commercial,15.61,cents per kilowatthour
+2016-03,MA,Massachusetts,IND,industrial,13.34,cents per kilowatthour
+2016-03,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2016-03,MA,Massachusetts,RES,residential,19.62,cents per kilowatthour
+2016-03,MA,Massachusetts,TRA,transportation,6.07,cents per kilowatthour
+2016-03,MA,Massachusetts,ALL,all sectors,16.65,cents per kilowatthour
+2016-04,MA,Massachusetts,COM,commercial,15.59,cents per kilowatthour
+2016-04,MA,Massachusetts,IND,industrial,13.15,cents per kilowatthour
+2016-04,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2016-04,MA,Massachusetts,RES,residential,19.89,cents per kilowatthour
+2016-04,MA,Massachusetts,TRA,transportation,5.35,cents per kilowatthour
+2016-04,MA,Massachusetts,ALL,all sectors,16.64,cents per kilowatthour
+2016-05,MA,Massachusetts,COM,commercial,15.11,cents per kilowatthour
+2016-05,MA,Massachusetts,IND,industrial,12.87,cents per kilowatthour
+2016-05,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2016-05,MA,Massachusetts,RES,residential,18.97,cents per kilowatthour
+2016-05,MA,Massachusetts,TRA,transportation,4.83,cents per kilowatthour
+2016-05,MA,Massachusetts,ALL,all sectors,15.96,cents per kilowatthour
+2016-06,MA,Massachusetts,COM,commercial,15.56,cents per kilowatthour
+2016-06,MA,Massachusetts,IND,industrial,13.2,cents per kilowatthour
+2016-06,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2016-06,MA,Massachusetts,RES,residential,18.45,cents per kilowatthour
+2016-06,MA,Massachusetts,TRA,transportation,4.85,cents per kilowatthour
+2016-06,MA,Massachusetts,ALL,all sectors,16.14,cents per kilowatthour
+2016-07,MA,Massachusetts,COM,commercial,15.81,cents per kilowatthour
+2016-07,MA,Massachusetts,IND,industrial,13.6,cents per kilowatthour
+2016-07,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2016-07,MA,Massachusetts,RES,residential,18.02,cents per kilowatthour
+2016-07,MA,Massachusetts,TRA,transportation,5.65,cents per kilowatthour
+2016-07,MA,Massachusetts,ALL,all sectors,16.33,cents per kilowatthour
+2016-08,MA,Massachusetts,COM,commercial,15.8,cents per kilowatthour
+2016-08,MA,Massachusetts,IND,industrial,13.71,cents per kilowatthour
+2016-08,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2016-08,MA,Massachusetts,RES,residential,18.02,cents per kilowatthour
+2016-08,MA,Massachusetts,TRA,transportation,6.5,cents per kilowatthour
+2016-08,MA,Massachusetts,ALL,all sectors,16.4,cents per kilowatthour
+2016-09,MA,Massachusetts,COM,commercial,16.28,cents per kilowatthour
+2016-09,MA,Massachusetts,IND,industrial,13.61,cents per kilowatthour
+2016-09,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2016-09,MA,Massachusetts,RES,residential,19.69,cents per kilowatthour
+2016-09,MA,Massachusetts,TRA,transportation,5.08,cents per kilowatthour
+2016-09,MA,Massachusetts,ALL,all sectors,17.19,cents per kilowatthour
+2016-10,MA,Massachusetts,ALL,all sectors,16.43,cents per kilowatthour
+2016-10,MA,Massachusetts,COM,commercial,15.87,cents per kilowatthour
+2016-10,MA,Massachusetts,IND,industrial,13.45,cents per kilowatthour
+2016-10,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2016-10,MA,Massachusetts,RES,residential,18.82,cents per kilowatthour
+2016-10,MA,Massachusetts,TRA,transportation,5.3,cents per kilowatthour
+2016-11,MA,Massachusetts,COM,commercial,14.91,cents per kilowatthour
+2016-11,MA,Massachusetts,IND,industrial,13.2,cents per kilowatthour
+2016-11,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2016-11,MA,Massachusetts,RES,residential,19.14,cents per kilowatthour
+2016-11,MA,Massachusetts,TRA,transportation,5.27,cents per kilowatthour
+2016-11,MA,Massachusetts,ALL,all sectors,16.02,cents per kilowatthour
+2016-12,MA,Massachusetts,COM,commercial,14.94,cents per kilowatthour
+2016-12,MA,Massachusetts,IND,industrial,13.59,cents per kilowatthour
+2016-12,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2016-12,MA,Massachusetts,RES,residential,18.81,cents per kilowatthour
+2016-12,MA,Massachusetts,TRA,transportation,6.69,cents per kilowatthour
+2016-12,MA,Massachusetts,ALL,all sectors,16.19,cents per kilowatthour
+2017-01,MA,Massachusetts,COM,commercial,15.62,cents per kilowatthour
+2017-01,MA,Massachusetts,IND,industrial,13.87,cents per kilowatthour
+2017-01,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2017-01,MA,Massachusetts,RES,residential,19.76,cents per kilowatthour
+2017-01,MA,Massachusetts,TRA,transportation,8.01,cents per kilowatthour
+2017-01,MA,Massachusetts,ALL,all sectors,16.98,cents per kilowatthour
+2017-02,MA,Massachusetts,COM,commercial,15.98,cents per kilowatthour
+2017-02,MA,Massachusetts,IND,industrial,13.51,cents per kilowatthour
+2017-02,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2017-02,MA,Massachusetts,RES,residential,20.33,cents per kilowatthour
+2017-02,MA,Massachusetts,TRA,transportation,8.35,cents per kilowatthour
+2017-02,MA,Massachusetts,ALL,all sectors,17.25,cents per kilowatthour
+2017-03,MA,Massachusetts,COM,commercial,15.08,cents per kilowatthour
+2017-03,MA,Massachusetts,IND,industrial,13.61,cents per kilowatthour
+2017-03,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2017-03,MA,Massachusetts,RES,residential,19.53,cents per kilowatthour
+2017-03,MA,Massachusetts,TRA,transportation,5.92,cents per kilowatthour
+2017-03,MA,Massachusetts,ALL,all sectors,16.46,cents per kilowatthour
+2017-04,MA,Massachusetts,COM,commercial,15.49,cents per kilowatthour
+2017-04,MA,Massachusetts,IND,industrial,13.52,cents per kilowatthour
+2017-04,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2017-04,MA,Massachusetts,RES,residential,20.99,cents per kilowatthour
+2017-04,MA,Massachusetts,TRA,transportation,5.63,cents per kilowatthour
+2017-04,MA,Massachusetts,ALL,all sectors,17.08,cents per kilowatthour
+2017-05,MA,Massachusetts,COM,commercial,15.11,cents per kilowatthour
+2017-05,MA,Massachusetts,IND,industrial,13.27,cents per kilowatthour
+2017-05,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2017-05,MA,Massachusetts,RES,residential,19.76,cents per kilowatthour
+2017-05,MA,Massachusetts,TRA,transportation,5.55,cents per kilowatthour
+2017-05,MA,Massachusetts,ALL,all sectors,16.36,cents per kilowatthour
+2017-06,MA,Massachusetts,COM,commercial,16.29,cents per kilowatthour
+2017-06,MA,Massachusetts,IND,industrial,14.05,cents per kilowatthour
+2017-06,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2017-06,MA,Massachusetts,RES,residential,19.62,cents per kilowatthour
+2017-06,MA,Massachusetts,TRA,transportation,5.32,cents per kilowatthour
+2017-06,MA,Massachusetts,ALL,all sectors,17.14,cents per kilowatthour
+2017-07,MA,Massachusetts,COM,commercial,16.43,cents per kilowatthour
+2017-07,MA,Massachusetts,IND,industrial,14.17,cents per kilowatthour
+2017-07,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2017-07,MA,Massachusetts,RES,residential,19.72,cents per kilowatthour
+2017-07,MA,Massachusetts,TRA,transportation,5.42,cents per kilowatthour
+2017-07,MA,Massachusetts,ALL,all sectors,17.36,cents per kilowatthour
+2017-08,MA,Massachusetts,COM,commercial,16.24,cents per kilowatthour
+2017-08,MA,Massachusetts,IND,industrial,14.18,cents per kilowatthour
+2017-08,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2017-08,MA,Massachusetts,RES,residential,19.66,cents per kilowatthour
+2017-08,MA,Massachusetts,TRA,transportation,5.3,cents per kilowatthour
+2017-08,MA,Massachusetts,ALL,all sectors,17.25,cents per kilowatthour
+2017-09,MA,Massachusetts,COM,commercial,16.91,cents per kilowatthour
+2017-09,MA,Massachusetts,IND,industrial,14.22,cents per kilowatthour
+2017-09,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2017-09,MA,Massachusetts,RES,residential,20.83,cents per kilowatthour
+2017-09,MA,Massachusetts,TRA,transportation,5.17,cents per kilowatthour
+2017-09,MA,Massachusetts,ALL,all sectors,17.88,cents per kilowatthour
+2017-10,MA,Massachusetts,COM,commercial,16.07,cents per kilowatthour
+2017-10,MA,Massachusetts,IND,industrial,13.85,cents per kilowatthour
+2017-10,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2017-10,MA,Massachusetts,RES,residential,20.45,cents per kilowatthour
+2017-10,MA,Massachusetts,TRA,transportation,5.36,cents per kilowatthour
+2017-10,MA,Massachusetts,ALL,all sectors,17.18,cents per kilowatthour
+2017-11,MA,Massachusetts,COM,commercial,15.91,cents per kilowatthour
+2017-11,MA,Massachusetts,IND,industrial,13.96,cents per kilowatthour
+2017-11,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2017-11,MA,Massachusetts,RES,residential,20.44,cents per kilowatthour
+2017-11,MA,Massachusetts,TRA,transportation,5.59,cents per kilowatthour
+2017-11,MA,Massachusetts,ALL,all sectors,17.15,cents per kilowatthour
+2017-12,MA,Massachusetts,COM,commercial,15.88,cents per kilowatthour
+2017-12,MA,Massachusetts,IND,industrial,14.3,cents per kilowatthour
+2017-12,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2017-12,MA,Massachusetts,RES,residential,20.05,cents per kilowatthour
+2017-12,MA,Massachusetts,TRA,transportation,8.04,cents per kilowatthour
+2017-12,MA,Massachusetts,ALL,all sectors,17.26,cents per kilowatthour
+2018-01,MA,Massachusetts,COM,commercial,18.04,cents per kilowatthour
+2018-01,MA,Massachusetts,IND,industrial,15.56,cents per kilowatthour
+2018-01,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2018-01,MA,Massachusetts,RES,residential,22.73,cents per kilowatthour
+2018-01,MA,Massachusetts,TRA,transportation,9.79,cents per kilowatthour
+2018-01,MA,Massachusetts,ALL,all sectors,19.66,cents per kilowatthour
+2018-02,MA,Massachusetts,COM,commercial,18.02,cents per kilowatthour
+2018-02,MA,Massachusetts,IND,industrial,15.58,cents per kilowatthour
+2018-02,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2018-02,MA,Massachusetts,RES,residential,22.19,cents per kilowatthour
+2018-02,MA,Massachusetts,TRA,transportation,8.86,cents per kilowatthour
+2018-02,MA,Massachusetts,ALL,all sectors,19.27,cents per kilowatthour
+2018-03,MA,Massachusetts,COM,commercial,17.78,cents per kilowatthour
+2018-03,MA,Massachusetts,IND,industrial,14.66,cents per kilowatthour
+2018-03,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2018-03,MA,Massachusetts,RES,residential,22.45,cents per kilowatthour
+2018-03,MA,Massachusetts,TRA,transportation,5.97,cents per kilowatthour
+2018-03,MA,Massachusetts,ALL,all sectors,19.03,cents per kilowatthour
+2018-04,MA,Massachusetts,COM,commercial,16.75,cents per kilowatthour
+2018-04,MA,Massachusetts,IND,industrial,14.72,cents per kilowatthour
+2018-04,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2018-04,MA,Massachusetts,RES,residential,22.25,cents per kilowatthour
+2018-04,MA,Massachusetts,TRA,transportation,5.86,cents per kilowatthour
+2018-04,MA,Massachusetts,ALL,all sectors,18.38,cents per kilowatthour
+2018-05,MA,Massachusetts,COM,commercial,16.49,cents per kilowatthour
+2018-05,MA,Massachusetts,IND,industrial,14.69,cents per kilowatthour
+2018-05,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2018-05,MA,Massachusetts,RES,residential,21.57,cents per kilowatthour
+2018-05,MA,Massachusetts,TRA,transportation,4.82,cents per kilowatthour
+2018-05,MA,Massachusetts,ALL,all sectors,17.89,cents per kilowatthour
+2018-06,MA,Massachusetts,TRA,transportation,4.94,cents per kilowatthour
+2018-06,MA,Massachusetts,ALL,all sectors,17.68,cents per kilowatthour
+2018-06,MA,Massachusetts,COM,commercial,16.31,cents per kilowatthour
+2018-06,MA,Massachusetts,IND,industrial,14.86,cents per kilowatthour
+2018-06,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2018-06,MA,Massachusetts,RES,residential,20.93,cents per kilowatthour
+2018-07,MA,Massachusetts,COM,commercial,17.02,cents per kilowatthour
+2018-07,MA,Massachusetts,IND,industrial,14.79,cents per kilowatthour
+2018-07,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2018-07,MA,Massachusetts,RES,residential,20.57,cents per kilowatthour
+2018-07,MA,Massachusetts,TRA,transportation,5.69,cents per kilowatthour
+2018-07,MA,Massachusetts,ALL,all sectors,18.13,cents per kilowatthour
+2018-08,MA,Massachusetts,TRA,transportation,5.59,cents per kilowatthour
+2018-08,MA,Massachusetts,ALL,all sectors,18.19,cents per kilowatthour
+2018-08,MA,Massachusetts,COM,commercial,16.96,cents per kilowatthour
+2018-08,MA,Massachusetts,IND,industrial,14.62,cents per kilowatthour
+2018-08,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2018-08,MA,Massachusetts,RES,residential,20.8,cents per kilowatthour
+2018-09,MA,Massachusetts,COM,commercial,17.6,cents per kilowatthour
+2018-09,MA,Massachusetts,IND,industrial,14.91,cents per kilowatthour
+2018-09,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2018-09,MA,Massachusetts,RES,residential,22.12,cents per kilowatthour
+2018-09,MA,Massachusetts,TRA,transportation,5.36,cents per kilowatthour
+2018-09,MA,Massachusetts,ALL,all sectors,18.97,cents per kilowatthour
+2018-10,MA,Massachusetts,COM,commercial,17.33,cents per kilowatthour
+2018-10,MA,Massachusetts,IND,industrial,14.63,cents per kilowatthour
+2018-10,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2018-10,MA,Massachusetts,RES,residential,21.25,cents per kilowatthour
+2018-10,MA,Massachusetts,TRA,transportation,5.56,cents per kilowatthour
+2018-10,MA,Massachusetts,ALL,all sectors,18.23,cents per kilowatthour
+2018-11,MA,Massachusetts,COM,commercial,16.71,cents per kilowatthour
+2018-11,MA,Massachusetts,IND,industrial,14.82,cents per kilowatthour
+2018-11,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2018-11,MA,Massachusetts,RES,residential,21.25,cents per kilowatthour
+2018-11,MA,Massachusetts,TRA,transportation,6.51,cents per kilowatthour
+2018-11,MA,Massachusetts,ALL,all sectors,18.05,cents per kilowatthour
+2018-12,MA,Massachusetts,COM,commercial,17.04,cents per kilowatthour
+2018-12,MA,Massachusetts,IND,industrial,14.95,cents per kilowatthour
+2018-12,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2018-12,MA,Massachusetts,RES,residential,21.46,cents per kilowatthour
+2018-12,MA,Massachusetts,TRA,transportation,6.58,cents per kilowatthour
+2018-12,MA,Massachusetts,ALL,all sectors,18.47,cents per kilowatthour
+2019-01,MA,Massachusetts,COM,commercial,17.37,cents per kilowatthour
+2019-01,MA,Massachusetts,IND,industrial,15.34,cents per kilowatthour
+2019-01,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2019-01,MA,Massachusetts,RES,residential,21.96,cents per kilowatthour
+2019-01,MA,Massachusetts,TRA,transportation,9.05,cents per kilowatthour
+2019-01,MA,Massachusetts,ALL,all sectors,18.92,cents per kilowatthour
+2019-02,MA,Massachusetts,TRA,transportation,8.85,cents per kilowatthour
+2019-02,MA,Massachusetts,COM,commercial,16.97,cents per kilowatthour
+2019-02,MA,Massachusetts,IND,industrial,15.47,cents per kilowatthour
+2019-02,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2019-02,MA,Massachusetts,ALL,all sectors,18.89,cents per kilowatthour
+2019-02,MA,Massachusetts,RES,residential,22.4,cents per kilowatthour
+2019-03,MA,Massachusetts,COM,commercial,17.48,cents per kilowatthour
+2019-03,MA,Massachusetts,IND,industrial,15.32,cents per kilowatthour
+2019-03,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2019-03,MA,Massachusetts,RES,residential,22.67,cents per kilowatthour
+2019-03,MA,Massachusetts,TRA,transportation,6.48,cents per kilowatthour
+2019-03,MA,Massachusetts,ALL,all sectors,19.14,cents per kilowatthour
+2019-04,MA,Massachusetts,ALL,all sectors,18.38,cents per kilowatthour
+2019-04,MA,Massachusetts,IND,industrial,14.7,cents per kilowatthour
+2019-04,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2019-04,MA,Massachusetts,RES,residential,22.67,cents per kilowatthour
+2019-04,MA,Massachusetts,TRA,transportation,5.36,cents per kilowatthour
+2019-04,MA,Massachusetts,COM,commercial,16.57,cents per kilowatthour
+2019-05,MA,Massachusetts,COM,commercial,16.53,cents per kilowatthour
+2019-05,MA,Massachusetts,IND,industrial,14.25,cents per kilowatthour
+2019-05,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2019-05,MA,Massachusetts,RES,residential,22.28,cents per kilowatthour
+2019-05,MA,Massachusetts,TRA,transportation,4.97,cents per kilowatthour
+2019-05,MA,Massachusetts,ALL,all sectors,18.09,cents per kilowatthour
+2019-06,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2019-06,MA,Massachusetts,RES,residential,21.33,cents per kilowatthour
+2019-06,MA,Massachusetts,TRA,transportation,5.19,cents per kilowatthour
+2019-06,MA,Massachusetts,ALL,all sectors,17.86,cents per kilowatthour
+2019-06,MA,Massachusetts,COM,commercial,16.55,cents per kilowatthour
+2019-06,MA,Massachusetts,IND,industrial,14.49,cents per kilowatthour
+2019-07,MA,Massachusetts,COM,commercial,16.81,cents per kilowatthour
+2019-07,MA,Massachusetts,IND,industrial,14.65,cents per kilowatthour
+2019-07,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2019-07,MA,Massachusetts,RES,residential,20.93,cents per kilowatthour
+2019-07,MA,Massachusetts,TRA,transportation,5.77,cents per kilowatthour
+2019-07,MA,Massachusetts,ALL,all sectors,18.16,cents per kilowatthour
+2019-08,MA,Massachusetts,COM,commercial,16.82,cents per kilowatthour
+2019-08,MA,Massachusetts,IND,industrial,14.28,cents per kilowatthour
+2019-08,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2019-08,MA,Massachusetts,RES,residential,21.62,cents per kilowatthour
+2019-08,MA,Massachusetts,TRA,transportation,5.41,cents per kilowatthour
+2019-08,MA,Massachusetts,ALL,all sectors,18.42,cents per kilowatthour
+2019-09,MA,Massachusetts,COM,commercial,16.88,cents per kilowatthour
+2019-09,MA,Massachusetts,IND,industrial,14.46,cents per kilowatthour
+2019-09,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2019-09,MA,Massachusetts,RES,residential,22.03,cents per kilowatthour
+2019-09,MA,Massachusetts,TRA,transportation,4.78,cents per kilowatthour
+2019-09,MA,Massachusetts,ALL,all sectors,18.42,cents per kilowatthour
+2019-10,MA,Massachusetts,COM,commercial,16.48,cents per kilowatthour
+2019-10,MA,Massachusetts,IND,industrial,14.46,cents per kilowatthour
+2019-10,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2019-10,MA,Massachusetts,RES,residential,21.25,cents per kilowatthour
+2019-10,MA,Massachusetts,TRA,transportation,4.77,cents per kilowatthour
+2019-10,MA,Massachusetts,ALL,all sectors,17.76,cents per kilowatthour
+2019-11,MA,Massachusetts,COM,commercial,16.4,cents per kilowatthour
+2019-11,MA,Massachusetts,IND,industrial,15.03,cents per kilowatthour
+2019-11,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2019-11,MA,Massachusetts,RES,residential,21.78,cents per kilowatthour
+2019-11,MA,Massachusetts,TRA,transportation,5.63,cents per kilowatthour
+2019-11,MA,Massachusetts,ALL,all sectors,18.05,cents per kilowatthour
+2019-12,MA,Massachusetts,COM,commercial,16.61,cents per kilowatthour
+2019-12,MA,Massachusetts,IND,industrial,14.76,cents per kilowatthour
+2019-12,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2019-12,MA,Massachusetts,RES,residential,22.39,cents per kilowatthour
+2019-12,MA,Massachusetts,TRA,transportation,6.42,cents per kilowatthour
+2019-12,MA,Massachusetts,ALL,all sectors,18.56,cents per kilowatthour
+2020-01,MA,Massachusetts,COM,commercial,16.51,cents per kilowatthour
+2020-01,MA,Massachusetts,IND,industrial,14.8,cents per kilowatthour
+2020-01,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2020-01,MA,Massachusetts,RES,residential,22.88,cents per kilowatthour
+2020-01,MA,Massachusetts,TRA,transportation,9.18,cents per kilowatthour
+2020-01,MA,Massachusetts,ALL,all sectors,18.79,cents per kilowatthour
+2020-02,MA,Massachusetts,COM,commercial,16.74,cents per kilowatthour
+2020-02,MA,Massachusetts,IND,industrial,14.75,cents per kilowatthour
+2020-02,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2020-02,MA,Massachusetts,RES,residential,23.02,cents per kilowatthour
+2020-02,MA,Massachusetts,TRA,transportation,8.84,cents per kilowatthour
+2020-02,MA,Massachusetts,ALL,all sectors,18.83,cents per kilowatthour
+2020-03,MA,Massachusetts,COM,commercial,16.28,cents per kilowatthour
+2020-03,MA,Massachusetts,IND,industrial,14.58,cents per kilowatthour
+2020-03,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2020-03,MA,Massachusetts,RES,residential,22.73,cents per kilowatthour
+2020-03,MA,Massachusetts,TRA,transportation,6.38,cents per kilowatthour
+2020-03,MA,Massachusetts,ALL,all sectors,18.45,cents per kilowatthour
+2020-04,MA,Massachusetts,COM,commercial,15.79,cents per kilowatthour
+2020-04,MA,Massachusetts,IND,industrial,14.43,cents per kilowatthour
+2020-04,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2020-04,MA,Massachusetts,RES,residential,23.15,cents per kilowatthour
+2020-04,MA,Massachusetts,TRA,transportation,5.12,cents per kilowatthour
+2020-04,MA,Massachusetts,ALL,all sectors,18.53,cents per kilowatthour
+2020-05,MA,Massachusetts,IND,industrial,14.44,cents per kilowatthour
+2020-05,MA,Massachusetts,COM,commercial,15.22,cents per kilowatthour
+2020-05,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2020-05,MA,Massachusetts,RES,residential,22.16,cents per kilowatthour
+2020-05,MA,Massachusetts,TRA,transportation,4.73,cents per kilowatthour
+2020-05,MA,Massachusetts,ALL,all sectors,17.79,cents per kilowatthour
+2020-06,MA,Massachusetts,COM,commercial,15.21,cents per kilowatthour
+2020-06,MA,Massachusetts,IND,industrial,14.57,cents per kilowatthour
+2020-06,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2020-06,MA,Massachusetts,RES,residential,20.91,cents per kilowatthour
+2020-06,MA,Massachusetts,TRA,transportation,5.26,cents per kilowatthour
+2020-06,MA,Massachusetts,ALL,all sectors,17.45,cents per kilowatthour
+2020-07,MA,Massachusetts,COM,commercial,16.3,cents per kilowatthour
+2020-07,MA,Massachusetts,IND,industrial,14.82,cents per kilowatthour
+2020-07,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2020-07,MA,Massachusetts,RES,residential,21.26,cents per kilowatthour
+2020-07,MA,Massachusetts,TRA,transportation,5.84,cents per kilowatthour
+2020-07,MA,Massachusetts,ALL,all sectors,18.32,cents per kilowatthour
+2020-08,MA,Massachusetts,COM,commercial,16.34,cents per kilowatthour
+2020-08,MA,Massachusetts,IND,industrial,14.66,cents per kilowatthour
+2020-08,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2020-08,MA,Massachusetts,RES,residential,21.62,cents per kilowatthour
+2020-08,MA,Massachusetts,TRA,transportation,5.6,cents per kilowatthour
+2020-08,MA,Massachusetts,ALL,all sectors,18.49,cents per kilowatthour
+2020-09,MA,Massachusetts,COM,commercial,16.28,cents per kilowatthour
+2020-09,MA,Massachusetts,IND,industrial,14.27,cents per kilowatthour
+2020-09,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2020-09,MA,Massachusetts,RES,residential,21.45,cents per kilowatthour
+2020-09,MA,Massachusetts,TRA,transportation,5.21,cents per kilowatthour
+2020-09,MA,Massachusetts,ALL,all sectors,18.09,cents per kilowatthour
+2020-10,MA,Massachusetts,IND,industrial,14.23,cents per kilowatthour
+2020-10,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2020-10,MA,Massachusetts,RES,residential,21.5,cents per kilowatthour
+2020-10,MA,Massachusetts,TRA,transportation,5.16,cents per kilowatthour
+2020-10,MA,Massachusetts,ALL,all sectors,17.68,cents per kilowatthour
+2020-10,MA,Massachusetts,COM,commercial,15.85,cents per kilowatthour
+2020-11,MA,Massachusetts,COM,commercial,15.51,cents per kilowatthour
+2020-11,MA,Massachusetts,IND,industrial,14.13,cents per kilowatthour
+2020-11,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2020-11,MA,Massachusetts,RES,residential,22.04,cents per kilowatthour
+2020-11,MA,Massachusetts,TRA,transportation,5.69,cents per kilowatthour
+2020-11,MA,Massachusetts,ALL,all sectors,17.69,cents per kilowatthour
+2020-12,MA,Massachusetts,COM,commercial,15.9,cents per kilowatthour
+2020-12,MA,Massachusetts,IND,industrial,14.34,cents per kilowatthour
+2020-12,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2020-12,MA,Massachusetts,RES,residential,21.49,cents per kilowatthour
+2020-12,MA,Massachusetts,TRA,transportation,6.66,cents per kilowatthour
+2020-12,MA,Massachusetts,ALL,all sectors,17.96,cents per kilowatthour
+2021-01,MA,Massachusetts,COM,commercial,16.15,cents per kilowatthour
+2021-01,MA,Massachusetts,IND,industrial,14.25,cents per kilowatthour
+2021-01,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2021-01,MA,Massachusetts,RES,residential,22.3,cents per kilowatthour
+2021-01,MA,Massachusetts,TRA,transportation,6.24,cents per kilowatthour
+2021-01,MA,Massachusetts,ALL,all sectors,18.52,cents per kilowatthour
+2021-02,MA,Massachusetts,ALL,all sectors,19.01,cents per kilowatthour
+2021-02,MA,Massachusetts,COM,commercial,16.72,cents per kilowatthour
+2021-02,MA,Massachusetts,IND,industrial,15.27,cents per kilowatthour
+2021-02,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2021-02,MA,Massachusetts,RES,residential,22.67,cents per kilowatthour
+2021-02,MA,Massachusetts,TRA,transportation,7.04,cents per kilowatthour
+2021-03,MA,Massachusetts,COM,commercial,16.67,cents per kilowatthour
+2021-03,MA,Massachusetts,IND,industrial,14.38,cents per kilowatthour
+2021-03,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2021-03,MA,Massachusetts,RES,residential,23.08,cents per kilowatthour
+2021-03,MA,Massachusetts,TRA,transportation,6.44,cents per kilowatthour
+2021-03,MA,Massachusetts,ALL,all sectors,18.85,cents per kilowatthour
+2021-04,MA,Massachusetts,COM,commercial,15.7,cents per kilowatthour
+2021-04,MA,Massachusetts,IND,industrial,14.49,cents per kilowatthour
+2021-04,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2021-04,MA,Massachusetts,RES,residential,23.45,cents per kilowatthour
+2021-04,MA,Massachusetts,TRA,transportation,6.36,cents per kilowatthour
+2021-04,MA,Massachusetts,ALL,all sectors,18.38,cents per kilowatthour
+2021-05,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2021-05,MA,Massachusetts,RES,residential,22.69,cents per kilowatthour
+2021-05,MA,Massachusetts,COM,commercial,16.02,cents per kilowatthour
+2021-05,MA,Massachusetts,ALL,all sectors,18.16,cents per kilowatthour
+2021-05,MA,Massachusetts,TRA,transportation,6.02,cents per kilowatthour
+2021-05,MA,Massachusetts,IND,industrial,14.53,cents per kilowatthour
+2021-06,MA,Massachusetts,COM,commercial,16.79,cents per kilowatthour
+2021-06,MA,Massachusetts,IND,industrial,15.15,cents per kilowatthour
+2021-06,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2021-06,MA,Massachusetts,RES,residential,22.2,cents per kilowatthour
+2021-06,MA,Massachusetts,TRA,transportation,6.55,cents per kilowatthour
+2021-06,MA,Massachusetts,ALL,all sectors,18.63,cents per kilowatthour
+2021-07,MA,Massachusetts,COM,commercial,17.74,cents per kilowatthour
+2021-07,MA,Massachusetts,IND,industrial,15.43,cents per kilowatthour
+2021-07,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2021-07,MA,Massachusetts,RES,residential,22.88,cents per kilowatthour
+2021-07,MA,Massachusetts,TRA,transportation,6.31,cents per kilowatthour
+2021-07,MA,Massachusetts,ALL,all sectors,19.56,cents per kilowatthour
+2021-08,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2021-08,MA,Massachusetts,RES,residential,22.19,cents per kilowatthour
+2021-08,MA,Massachusetts,TRA,transportation,6.51,cents per kilowatthour
+2021-08,MA,Massachusetts,ALL,all sectors,19.31,cents per kilowatthour
+2021-08,MA,Massachusetts,COM,commercial,17.75,cents per kilowatthour
+2021-08,MA,Massachusetts,IND,industrial,15.57,cents per kilowatthour
+2021-09,MA,Massachusetts,TRA,transportation,6.91,cents per kilowatthour
+2021-09,MA,Massachusetts,COM,commercial,17.78,cents per kilowatthour
+2021-09,MA,Massachusetts,IND,industrial,15.52,cents per kilowatthour
+2021-09,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2021-09,MA,Massachusetts,ALL,all sectors,19.77,cents per kilowatthour
+2021-09,MA,Massachusetts,RES,residential,23.44,cents per kilowatthour
+2021-10,MA,Massachusetts,COM,commercial,17.38,cents per kilowatthour
+2021-10,MA,Massachusetts,IND,industrial,15.57,cents per kilowatthour
+2021-10,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2021-10,MA,Massachusetts,RES,residential,22.48,cents per kilowatthour
+2021-10,MA,Massachusetts,TRA,transportation,6.84,cents per kilowatthour
+2021-10,MA,Massachusetts,ALL,all sectors,18.97,cents per kilowatthour
+2021-11,MA,Massachusetts,COM,commercial,17.01,cents per kilowatthour
+2021-11,MA,Massachusetts,IND,industrial,15.92,cents per kilowatthour
+2021-11,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2021-11,MA,Massachusetts,RES,residential,23.33,cents per kilowatthour
+2021-11,MA,Massachusetts,TRA,transportation,6.52,cents per kilowatthour
+2021-11,MA,Massachusetts,ALL,all sectors,19.13,cents per kilowatthour
+2021-12,MA,Massachusetts,COM,commercial,17.74,cents per kilowatthour
+2021-12,MA,Massachusetts,IND,industrial,15.93,cents per kilowatthour
+2021-12,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2021-12,MA,Massachusetts,RES,residential,24.32,cents per kilowatthour
+2021-12,MA,Massachusetts,TRA,transportation,6.43,cents per kilowatthour
+2021-12,MA,Massachusetts,ALL,all sectors,20.1,cents per kilowatthour
+2022-01,MA,Massachusetts,COM,commercial,19.48,cents per kilowatthour
+2022-01,MA,Massachusetts,IND,industrial,16.8,cents per kilowatthour
+2022-01,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2022-01,MA,Massachusetts,RES,residential,25.27,cents per kilowatthour
+2022-01,MA,Massachusetts,TRA,transportation,7.91,cents per kilowatthour
+2022-01,MA,Massachusetts,ALL,all sectors,21.55,cents per kilowatthour
+2022-02,MA,Massachusetts,COM,commercial,19.56,cents per kilowatthour
+2022-02,MA,Massachusetts,IND,industrial,16.64,cents per kilowatthour
+2022-02,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2022-02,MA,Massachusetts,RES,residential,25.57,cents per kilowatthour
+2022-02,MA,Massachusetts,TRA,transportation,8.45,cents per kilowatthour
+2022-02,MA,Massachusetts,ALL,all sectors,21.7,cents per kilowatthour
+2022-03,MA,Massachusetts,COM,commercial,18.78,cents per kilowatthour
+2022-03,MA,Massachusetts,IND,industrial,16.15,cents per kilowatthour
+2022-03,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2022-03,MA,Massachusetts,RES,residential,25.29,cents per kilowatthour
+2022-03,MA,Massachusetts,TRA,transportation,6.61,cents per kilowatthour
+2022-03,MA,Massachusetts,ALL,all sectors,20.95,cents per kilowatthour
+2022-04,MA,Massachusetts,COM,commercial,17.21,cents per kilowatthour
+2022-04,MA,Massachusetts,IND,industrial,15.87,cents per kilowatthour
+2022-04,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2022-04,MA,Massachusetts,RES,residential,24.21,cents per kilowatthour
+2022-04,MA,Massachusetts,TRA,transportation,6.64,cents per kilowatthour
+2022-04,MA,Massachusetts,ALL,all sectors,19.59,cents per kilowatthour
+2022-05,MA,Massachusetts,COM,commercial,16.97,cents per kilowatthour
+2022-05,MA,Massachusetts,IND,industrial,16.31,cents per kilowatthour
+2022-05,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2022-05,MA,Massachusetts,RES,residential,23.72,cents per kilowatthour
+2022-05,MA,Massachusetts,TRA,transportation,7.29,cents per kilowatthour
+2022-05,MA,Massachusetts,ALL,all sectors,19.27,cents per kilowatthour
+2022-06,MA,Massachusetts,COM,commercial,17.89,cents per kilowatthour
+2022-06,MA,Massachusetts,IND,industrial,17.06,cents per kilowatthour
+2022-06,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2022-06,MA,Massachusetts,RES,residential,25.02,cents per kilowatthour
+2022-06,MA,Massachusetts,TRA,transportation,6.57,cents per kilowatthour
+2022-06,MA,Massachusetts,ALL,all sectors,20.34,cents per kilowatthour
+2022-07,MA,Massachusetts,COM,commercial,18.06,cents per kilowatthour
+2022-07,MA,Massachusetts,IND,industrial,17.79,cents per kilowatthour
+2022-07,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2022-07,MA,Massachusetts,RES,residential,23.76,cents per kilowatthour
+2022-07,MA,Massachusetts,TRA,transportation,6.85,cents per kilowatthour
+2022-07,MA,Massachusetts,ALL,all sectors,20.2,cents per kilowatthour
+2022-08,MA,Massachusetts,COM,commercial,19.32,cents per kilowatthour
+2022-08,MA,Massachusetts,IND,industrial,18.41,cents per kilowatthour
+2022-08,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2022-08,MA,Massachusetts,RES,residential,26.46,cents per kilowatthour
+2022-08,MA,Massachusetts,TRA,transportation,7.18,cents per kilowatthour
+2022-08,MA,Massachusetts,ALL,all sectors,22.17,cents per kilowatthour
+2022-09,MA,Massachusetts,COM,commercial,19.61,cents per kilowatthour
+2022-09,MA,Massachusetts,IND,industrial,17.85,cents per kilowatthour
+2022-09,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2022-09,MA,Massachusetts,RES,residential,27.56,cents per kilowatthour
+2022-09,MA,Massachusetts,TRA,transportation,6.48,cents per kilowatthour
+2022-09,MA,Massachusetts,ALL,all sectors,22.51,cents per kilowatthour
+2022-10,MA,Massachusetts,COM,commercial,18.8,cents per kilowatthour
+2022-10,MA,Massachusetts,IND,industrial,17.09,cents per kilowatthour
+2022-10,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2022-10,MA,Massachusetts,RES,residential,26.15,cents per kilowatthour
+2022-10,MA,Massachusetts,TRA,transportation,6.38,cents per kilowatthour
+2022-10,MA,Massachusetts,ALL,all sectors,21.25,cents per kilowatthour
+2022-11,MA,Massachusetts,COM,commercial,18.68,cents per kilowatthour
+2022-11,MA,Massachusetts,IND,industrial,16.83,cents per kilowatthour
+2022-11,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2022-11,MA,Massachusetts,RES,residential,28.07,cents per kilowatthour
+2022-11,MA,Massachusetts,TRA,transportation,6.2,cents per kilowatthour
+2022-11,MA,Massachusetts,ALL,all sectors,21.79,cents per kilowatthour
+2022-12,MA,Massachusetts,COM,commercial,19.44,cents per kilowatthour
+2022-12,MA,Massachusetts,IND,industrial,17.78,cents per kilowatthour
+2022-12,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2022-12,MA,Massachusetts,RES,residential,30.64,cents per kilowatthour
+2022-12,MA,Massachusetts,TRA,transportation,7.84,cents per kilowatthour
+2022-12,MA,Massachusetts,ALL,all sectors,23.55,cents per kilowatthour
+2023-01,MA,Massachusetts,COM,commercial,21.12,cents per kilowatthour
+2023-01,MA,Massachusetts,IND,industrial,18.62,cents per kilowatthour
+2023-01,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2023-01,MA,Massachusetts,RES,residential,31.83,cents per kilowatthour
+2023-01,MA,Massachusetts,TRA,transportation,7.2,cents per kilowatthour
+2023-01,MA,Massachusetts,ALL,all sectors,25.24,cents per kilowatthour
+2023-02,MA,Massachusetts,COM,commercial,21.76,cents per kilowatthour
+2023-02,MA,Massachusetts,IND,industrial,18.81,cents per kilowatthour
+2023-02,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2023-02,MA,Massachusetts,RES,residential,32.23,cents per kilowatthour
+2023-02,MA,Massachusetts,TRA,transportation,8.65,cents per kilowatthour
+2023-02,MA,Massachusetts,ALL,all sectors,25.58,cents per kilowatthour
+2023-03,MA,Massachusetts,COM,commercial,20.42,cents per kilowatthour
+2023-03,MA,Massachusetts,IND,industrial,17.96,cents per kilowatthour
+2023-03,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2023-03,MA,Massachusetts,RES,residential,32.39,cents per kilowatthour
+2023-03,MA,Massachusetts,TRA,transportation,7.27,cents per kilowatthour
+2023-03,MA,Massachusetts,ALL,all sectors,24.74,cents per kilowatthour
+2023-04,MA,Massachusetts,COM,commercial,19.23,cents per kilowatthour
+2023-04,MA,Massachusetts,IND,industrial,17.38,cents per kilowatthour
+2023-04,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2023-04,MA,Massachusetts,RES,residential,32.06,cents per kilowatthour
+2023-04,MA,Massachusetts,TRA,transportation,7.5,cents per kilowatthour
+2023-04,MA,Massachusetts,ALL,all sectors,23.65,cents per kilowatthour
+2023-05,MA,Massachusetts,COM,commercial,17.47,cents per kilowatthour
+2023-05,MA,Massachusetts,IND,industrial,17.37,cents per kilowatthour
+2023-05,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2023-05,MA,Massachusetts,RES,residential,29.07,cents per kilowatthour
+2023-05,MA,Massachusetts,TRA,transportation,7.51,cents per kilowatthour
+2023-05,MA,Massachusetts,ALL,all sectors,21.51,cents per kilowatthour
+2023-06,MA,Massachusetts,COM,commercial,17.58,cents per kilowatthour
+2023-06,MA,Massachusetts,IND,industrial,17.38,cents per kilowatthour
+2023-06,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2023-06,MA,Massachusetts,RES,residential,27.18,cents per kilowatthour
+2023-06,MA,Massachusetts,TRA,transportation,7.28,cents per kilowatthour
+2023-06,MA,Massachusetts,ALL,all sectors,21.0,cents per kilowatthour
+2023-07,MA,Massachusetts,COM,commercial,18.77,cents per kilowatthour
+2023-07,MA,Massachusetts,IND,industrial,18.0,cents per kilowatthour
+2023-07,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2023-07,MA,Massachusetts,RES,residential,27.39,cents per kilowatthour
+2023-07,MA,Massachusetts,TRA,transportation,6.62,cents per kilowatthour
+2023-07,MA,Massachusetts,ALL,all sectors,22.11,cents per kilowatthour
+2023-08,MA,Massachusetts,COM,commercial,18.58,cents per kilowatthour
+2023-08,MA,Massachusetts,IND,industrial,17.74,cents per kilowatthour
+2023-08,MA,Massachusetts,OTH,other,,cents per kilowatthour
+2023-08,MA,Massachusetts,RES,residential,27.83,cents per kilowatthour
+2023-08,MA,Massachusetts,TRA,transportation,6.75,cents per kilowatthour
+2023-08,MA,Massachusetts,ALL,all sectors,22.31,cents per kilowatthour
